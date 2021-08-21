@@ -1,6 +1,6 @@
 # COVID-19 Dataset
 
----
+<img align="right" width="95" height="95" alt="logo" src="https://smurygin.github.io/covid19-ru/logo.svg">
 
 This repository crawl and collect dataset which includes time series data tracking the number of people affected by COVID-19 in Russia by federal subjects, including:
 
@@ -53,6 +53,10 @@ Data is in **JSON** format contain data from **12 March 2020** and updated daily
   - last update `start_date: string`
   - link to regulatory document `document_href: string`
   - list of restrictions `restrictions: string[]`
+
+### Usage
+
+JSON with data is available [here](https://smurygin.github.io/covid19-ru/dataset.json)
 
 ---
 
