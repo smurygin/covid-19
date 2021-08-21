@@ -19,7 +19,7 @@ jobs:
         run: npm ci
 
       - name: Run crawler
-        run: node ./src/index.js
+        run: npm start
 
       - name: Commit dataset
         run: |
