@@ -1,6 +1,6 @@
 {
   "name": "covid19-ru",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "JSON dataset of coronavirus cases: confirmed, deaths and recovered (total and per day) and restrictions in Russia",
   "main": "index.js",
   "scripts": {
