@@ -15,6 +15,7 @@ dayjs.extend(isTodayPlugin);
 
 const SOURCE_URL = 'https://xn--80aesfpebagmfblc0a.xn--p1ai/information/';
 const DATASET_PATH = '../docs/dataset.json';
+const ROS_DATASET_PATH = '../docs/dataset-ros.json';
 const DATE_FORMAT = 'YYYY-MM-DD';
 
 const write = promisify(fs.writeFile);
@@ -88,6 +89,11 @@ async function getCommonData() {
   await write(
     require.resolve(DATASET_PATH),
     prettier.format(JSON.stringify(dataset), { printWidth: 120, parser: 'json' })
+  );
+
+  await write(
+    require.resolve(ROS_DATASET_PATH),
+    prettier.format(JSON.stringify(dataset['RU-ROS']), { printWidth: 120, parser: 'json' })
   );
 
   console.log('🟢 the dataset has been updated');
