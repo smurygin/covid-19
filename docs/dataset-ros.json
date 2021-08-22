@@ -6352,12 +6352,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 119572,
-    "healed": 104336,
-    "died": 5717,
-    "sick_incr": 490,
-    "healed_incr": 303,
-    "died_incr": 28,
+    "sick": 120059,
+    "healed": 104640,
+    "died": 5744,
+    "sick_incr": 487,
+    "healed_incr": 304,
+    "died_incr": 27,
     "date": "2021-08-22",
     "isolation": {
       "start_date": "19.08.2021 10:24:50",
