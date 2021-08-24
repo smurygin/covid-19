@@ -7,35 +7,13 @@ This repository crawl and collect dataset which includes time series data tracki
 - confirmed cases of Coronavirus infection
 - the number of people who have died form it
 - the number of people who have recovered from it
+- government restrictions
 
 ## Data
 
-Data is in **JSON** format contain data from **12 March 2020** and updated daily from [стопкоронавирус.рф](https://xn--80aesfpebagmfblc0a.xn--p1ai/information/).
+Data presented in the **JSON** format, collected starting from **March 12, 2020**, updated daily from [стопкоронавирус.рф](https://xn--80aesfpebagmfblc0a.xn--p1ai/information/).
 
 ### Format
-
-```json
-{
-  "RU-MOW": [
-    {
-      "name": "Москва",
-      "code": "RU-MOW",
-      "sick": 21,
-      "healed": 0,
-      "died": 0,
-      "sick_incr": 21,
-      "healed_incr": 0,
-      "died_incr": 0,
-      "date": "2020-03-12",
-      "isolation": {
-        "start_date": null,
-        "document_href": null,
-        "restrictions": []
-      }
-    }
-  ]
-}
-```
 
 - date `date: string`
 - name of federal subject `name: string`
@@ -54,9 +32,46 @@ Data is in **JSON** format contain data from **12 March 2020** and updated daily
   - link to regulatory document `document_href: string`
   - list of restrictions `restrictions: string[]`
 
+
+### Example:
+
+```json
+{
+  "RU-ROS": [
+    {
+      "name": "Ростовская область",
+      "code": "RU-ROS",
+      "sick": 121027,
+      "healed": 105234,
+      "died": 5799,
+      "sick_incr": 483,
+      "healed_incr": 289,
+      "died_incr": 28,
+      "date": "2021-08-24",
+      "isolation": {
+        "start_date": "19.08.2021 10:24:50",
+        "restrictions": [
+          "Введен масочно-перчаточный режим.",
+          "Посещение заведений только с QR-кодом, ПЦР-тестом.",
+          "Запрет на работу заведений общепита в ночное время.",
+          "Фудкорты работают только на вынос.",
+          "Все массовые мероприятия запрещены.",
+          "Введен масочный режим и социальное дистанцирование в общественном транспорте.",
+          "Закрыты бани и сауны, плавательные бассейны и аквапарки в закрытых помещениях, аттракционы в парках культуры и отдыха.",
+          "Оказание государственных и муниципальных услуг осуществлять дистанционным способом либо при предъявлении получателем сертификата о вакцинации, сертификата о перенесенном заболевании, ПЦР.",
+          "Введена обязательная вакцинация для   учреждений,  оказывающих услуги  по  санаторно-курортному  лечению,  организации  отдыха  и  оздоровления  детей, общественного  питания,  экскурсионного  обслуживания, сотрудников сферы транспорта."
+        ],
+        "document_href": "https://www.donland.ru/documents/14207/"
+      }
+    }
+  ]
+}
+```
+
+
 ### Usage
 
-JSON with data is available [here](https://smurygin.github.io/covid19-ru/dataset.json)
+JSON is available [here](https://smurygin.github.io/covid19-ru/dataset.json)
 
 ---
 
