@@ -6404,12 +6404,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 120544,
-    "healed": 104945,
-    "died": 5771,
-    "sick_incr": 485,
-    "healed_incr": 305,
-    "died_incr": 27,
+    "sick": 121027,
+    "healed": 105234,
+    "died": 5799,
+    "sick_incr": 483,
+    "healed_incr": 289,
+    "died_incr": 28,
     "date": "2021-08-24",
     "isolation": {
       "start_date": "19.08.2021 10:24:50",
