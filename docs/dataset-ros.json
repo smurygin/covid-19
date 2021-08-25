@@ -6430,12 +6430,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 121027,
-    "healed": 105234,
-    "died": 5799,
-    "sick_incr": 483,
-    "healed_incr": 289,
-    "died_incr": 28,
+    "sick": 121509,
+    "healed": 105538,
+    "died": 5825,
+    "sick_incr": 482,
+    "healed_incr": 304,
+    "died_incr": 26,
     "date": "2021-08-25",
     "isolation": {
       "start_date": "19.08.2021 10:24:50",
