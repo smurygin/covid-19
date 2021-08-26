@@ -6456,12 +6456,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 121509,
-    "healed": 105538,
-    "died": 5825,
-    "sick_incr": 482,
-    "healed_incr": 304,
-    "died_incr": 26,
+    "sick": 121988,
+    "healed": 105839,
+    "died": 5850,
+    "sick_incr": 479,
+    "healed_incr": 301,
+    "died_incr": 25,
     "date": "2021-08-26",
     "isolation": {
       "start_date": "19.08.2021 10:24:50",
