@@ -6586,11 +6586,11 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 123930,
-    "healed": 107106,
-    "died": 5959,
-    "sick_incr": 482,
-    "healed_incr": 360,
+    "sick": 124411,
+    "healed": 107471,
+    "died": 5987,
+    "sick_incr": 481,
+    "healed_incr": 365,
     "died_incr": 28,
     "date": "2021-08-31",
     "isolation": {
