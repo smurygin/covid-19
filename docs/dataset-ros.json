@@ -6612,11 +6612,11 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 124411,
-    "healed": 107471,
-    "died": 5987,
-    "sick_incr": 481,
-    "healed_incr": 365,
+    "sick": 124890,
+    "healed": 107851,
+    "died": 6015,
+    "sick_incr": 479,
+    "healed_incr": 380,
     "died_incr": 28,
     "date": "2021-09-01",
     "isolation": {
