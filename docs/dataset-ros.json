@@ -6638,11 +6638,11 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 124890,
-    "healed": 107851,
-    "died": 6015,
-    "sick_incr": 479,
-    "healed_incr": 380,
+    "sick": 125365,
+    "healed": 108232,
+    "died": 6043,
+    "sick_incr": 475,
+    "healed_incr": 381,
     "died_incr": 28,
     "date": "2021-09-02",
     "isolation": {
