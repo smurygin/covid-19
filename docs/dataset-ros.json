@@ -6664,11 +6664,11 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 125365,
-    "healed": 108232,
-    "died": 6043,
-    "sick_incr": 475,
-    "healed_incr": 381,
+    "sick": 125842,
+    "healed": 108627,
+    "died": 6071,
+    "sick_incr": 477,
+    "healed_incr": 395,
     "died_incr": 28,
     "date": "2021-09-03",
     "isolation": {
