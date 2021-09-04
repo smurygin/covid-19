@@ -6690,11 +6690,11 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 125842,
-    "healed": 108627,
-    "died": 6071,
-    "sick_incr": 477,
-    "healed_incr": 395,
+    "sick": 126321,
+    "healed": 109028,
+    "died": 6099,
+    "sick_incr": 479,
+    "healed_incr": 401,
     "died_incr": 28,
     "date": "2021-09-04",
     "isolation": {
