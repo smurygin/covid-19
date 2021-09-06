@@ -6742,11 +6742,11 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 126801,
-    "healed": 109561,
-    "died": 6126,
-    "sick_incr": 480,
-    "healed_incr": 533,
+    "sick": 127278,
+    "healed": 110015,
+    "died": 6153,
+    "sick_incr": 477,
+    "healed_incr": 454,
     "died_incr": 27,
     "date": "2021-09-06",
     "isolation": {
