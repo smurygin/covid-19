@@ -6794,11 +6794,11 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 127753,
-    "healed": 110494,
-    "died": 6181,
-    "sick_incr": 475,
-    "healed_incr": 479,
+    "sick": 128224,
+    "healed": 110993,
+    "died": 6209,
+    "sick_incr": 471,
+    "healed_incr": 499,
     "died_incr": 28,
     "date": "2021-09-08",
     "isolation": {
