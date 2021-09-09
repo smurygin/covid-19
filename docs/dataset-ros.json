@@ -6820,11 +6820,11 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 128224,
-    "healed": 110993,
-    "died": 6209,
-    "sick_incr": 471,
-    "healed_incr": 499,
+    "sick": 128694,
+    "healed": 111498,
+    "died": 6237,
+    "sick_incr": 470,
+    "healed_incr": 505,
     "died_incr": 28,
     "date": "2021-09-09",
     "isolation": {
