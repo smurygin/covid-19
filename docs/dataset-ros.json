@@ -6846,11 +6846,11 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 128694,
-    "healed": 111498,
-    "died": 6237,
-    "sick_incr": 470,
-    "healed_incr": 505,
+    "sick": 129167,
+    "healed": 112014,
+    "died": 6265,
+    "sick_incr": 473,
+    "healed_incr": 516,
     "died_incr": 28,
     "date": "2021-09-10",
     "isolation": {
