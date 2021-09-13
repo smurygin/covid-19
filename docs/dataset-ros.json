@@ -6924,11 +6924,11 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 130113,
-    "healed": 112954,
-    "died": 6318,
-    "sick_incr": 472,
-    "healed_incr": 418,
+    "sick": 130583,
+    "healed": 113343,
+    "died": 6344,
+    "sick_incr": 470,
+    "healed_incr": 389,
     "died_incr": 26,
     "date": "2021-09-13",
     "isolation": {
