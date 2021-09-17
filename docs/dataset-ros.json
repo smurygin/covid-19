@@ -7028,12 +7028,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 131970,
-    "healed": 114490,
-    "died": 6425,
-    "sick_incr": 460,
-    "healed_incr": 382,
-    "died_incr": 28,
+    "sick": 132433,
+    "healed": 114875,
+    "died": 6452,
+    "sick_incr": 463,
+    "healed_incr": 385,
+    "died_incr": 27,
     "date": "2021-09-17",
     "isolation": {
       "start_date": "19.08.2021 10:24:50",
