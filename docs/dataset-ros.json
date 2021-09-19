@@ -7080,12 +7080,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 132898,
-    "healed": 115259,
-    "died": 6480,
-    "sick_incr": 465,
-    "healed_incr": 384,
-    "died_incr": 28,
+    "sick": 133362,
+    "healed": 115607,
+    "died": 6507,
+    "sick_incr": 464,
+    "healed_incr": 348,
+    "died_incr": 27,
     "date": "2021-09-19",
     "isolation": {
       "start_date": "19.08.2021 10:24:50",
