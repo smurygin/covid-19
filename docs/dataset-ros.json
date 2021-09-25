@@ -7236,12 +7236,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 135713,
-    "healed": 117618,
-    "died": 6642,
-    "sick_incr": 478,
-    "healed_incr": 454,
-    "died_incr": 26,
+    "sick": 136193,
+    "healed": 118066,
+    "died": 6669,
+    "sick_incr": 480,
+    "healed_incr": 448,
+    "died_incr": 27,
     "date": "2021-09-25",
     "isolation": {
       "start_date": "19.08.2021 10:24:50",
