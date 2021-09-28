@@ -7314,12 +7314,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 137160,
-    "healed": 118879,
-    "died": 6722,
-    "sick_incr": 485,
-    "healed_incr": 357,
-    "died_incr": 25,
+    "sick": 137643,
+    "healed": 119220,
+    "died": 6750,
+    "sick_incr": 483,
+    "healed_incr": 341,
+    "died_incr": 28,
     "date": "2021-09-28",
     "isolation": {
       "start_date": "19.08.2021 10:24:50",
