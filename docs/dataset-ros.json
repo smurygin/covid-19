@@ -7366,12 +7366,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 138132,
-    "healed": 119552,
-    "died": 6777,
-    "sick_incr": 489,
-    "healed_incr": 332,
-    "died_incr": 27,
+    "sick": 138627,
+    "healed": 119890,
+    "died": 6805,
+    "sick_incr": 495,
+    "healed_incr": 338,
+    "died_incr": 28,
     "date": "2021-09-30",
     "isolation": {
       "start_date": "19.08.2021 10:24:50",
