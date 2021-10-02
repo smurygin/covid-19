@@ -7418,12 +7418,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 139123,
-    "healed": 120231,
-    "died": 6832,
-    "sick_incr": 496,
-    "healed_incr": 341,
-    "died_incr": 27,
+    "sick": 139624,
+    "healed": 120569,
+    "died": 6860,
+    "sick_incr": 501,
+    "healed_incr": 338,
+    "died_incr": 28,
     "date": "2021-10-02",
     "isolation": {
       "start_date": "19.08.2021 10:24:50",
