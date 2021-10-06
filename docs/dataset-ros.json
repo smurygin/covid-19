@@ -7522,11 +7522,11 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 141160,
-    "healed": 121621,
-    "died": 6957,
-    "sick_incr": 510,
-    "healed_incr": 347,
+    "sick": 141674,
+    "healed": 121964,
+    "died": 6991,
+    "sick_incr": 514,
+    "healed_incr": 343,
     "died_incr": 34,
     "date": "2021-10-06",
     "isolation": {
