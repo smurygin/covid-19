@@ -7704,12 +7704,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 144839,
-    "healed": 124115,
-    "died": 7151,
-    "sick_incr": 534,
-    "healed_incr": 367,
-    "died_incr": 30,
+    "sick": 145380,
+    "healed": 124424,
+    "died": 7177,
+    "sick_incr": 541,
+    "healed_incr": 309,
+    "died_incr": 26,
     "date": "2021-10-13",
     "isolation": {
       "start_date": "19.08.2021 10:24:50",
