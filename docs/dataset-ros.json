@@ -7730,12 +7730,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 145380,
-    "healed": 124424,
-    "died": 7177,
-    "sick_incr": 541,
-    "healed_incr": 309,
-    "died_incr": 26,
+    "sick": 145932,
+    "healed": 124727,
+    "died": 7209,
+    "sick_incr": 552,
+    "healed_incr": 303,
+    "died_incr": 32,
     "date": "2021-10-14",
     "isolation": {
       "start_date": "19.08.2021 10:24:50",
