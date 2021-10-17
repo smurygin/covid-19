@@ -7814,12 +7814,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 147069,
-    "healed": 125215,
-    "died": 7273,
-    "sick_incr": 570,
-    "healed_incr": 203,
-    "died_incr": 33,
+    "sick": 147648,
+    "healed": 125416,
+    "died": 7303,
+    "sick_incr": 579,
+    "healed_incr": 201,
+    "died_incr": 30,
     "date": "2021-10-17",
     "isolation": {
       "start_date": "15.10.2021 12:34:02",
