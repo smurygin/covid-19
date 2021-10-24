@@ -8025,12 +8025,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 151176,
-    "healed": 127437,
-    "died": 7487,
-    "sick_incr": 598,
-    "healed_incr": 448,
-    "died_incr": 34,
+    "sick": 151776,
+    "healed": 127927,
+    "died": 7522,
+    "sick_incr": 600,
+    "healed_incr": 490,
+    "died_incr": 35,
     "date": "2021-10-24",
     "isolation": {
       "start_date": "20.10.2021 11:17:05",
