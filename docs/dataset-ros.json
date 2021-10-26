@@ -8091,12 +8091,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 152382,
-    "healed": 128467,
-    "died": 7555,
-    "sick_incr": 606,
-    "healed_incr": 540,
-    "died_incr": 33,
+    "sick": 152981,
+    "healed": 129010,
+    "died": 7583,
+    "sick_incr": 599,
+    "healed_incr": 543,
+    "died_incr": 28,
     "date": "2021-10-26",
     "isolation": {
       "start_date": "20.10.2021 11:17:05",
