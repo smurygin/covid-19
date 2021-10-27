@@ -8124,12 +8124,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 152981,
-    "healed": 129010,
-    "died": 7583,
-    "sick_incr": 599,
-    "healed_incr": 543,
-    "died_incr": 28,
+    "sick": 153590,
+    "healed": 129570,
+    "died": 7615,
+    "sick_incr": 609,
+    "healed_incr": 560,
+    "died_incr": 32,
     "date": "2021-10-27",
     "isolation": {
       "start_date": "20.10.2021 11:17:05",
