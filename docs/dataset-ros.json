@@ -8157,12 +8157,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 153590,
-    "healed": 129570,
-    "died": 7615,
-    "sick_incr": 609,
-    "healed_incr": 560,
-    "died_incr": 32,
+    "sick": 154208,
+    "healed": 130143,
+    "died": 7646,
+    "sick_incr": 618,
+    "healed_incr": 573,
+    "died_incr": 31,
     "date": "2021-10-28",
     "isolation": {
       "start_date": "20.10.2021 11:17:05",
