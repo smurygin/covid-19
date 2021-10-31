@@ -8256,12 +8256,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 155453,
-    "healed": 131312,
-    "died": 7713,
-    "sick_incr": 625,
-    "healed_incr": 581,
-    "died_incr": 34,
+    "sick": 156082,
+    "healed": 131907,
+    "died": 7746,
+    "sick_incr": 629,
+    "healed_incr": 595,
+    "died_incr": 33,
     "date": "2021-10-31",
     "isolation": {
       "start_date": "27.10.2021 11:17:05",
