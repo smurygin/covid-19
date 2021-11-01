@@ -8289,12 +8289,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 156082,
-    "healed": 131907,
-    "died": 7746,
-    "sick_incr": 629,
-    "healed_incr": 595,
-    "died_incr": 33,
+    "sick": 156717,
+    "healed": 132506,
+    "died": 7778,
+    "sick_incr": 635,
+    "healed_incr": 599,
+    "died_incr": 32,
     "date": "2021-11-01",
     "isolation": {
       "start_date": "27.10.2021 11:17:05",
