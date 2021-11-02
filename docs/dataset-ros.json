@@ -8322,12 +8322,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 156717,
-    "healed": 132506,
-    "died": 7778,
-    "sick_incr": 635,
-    "healed_incr": 599,
-    "died_incr": 32,
+    "sick": 157357,
+    "healed": 133102,
+    "died": 7805,
+    "sick_incr": 640,
+    "healed_incr": 596,
+    "died_incr": 27,
     "date": "2021-11-02",
     "isolation": {
       "start_date": "27.10.2021 11:17:05",
