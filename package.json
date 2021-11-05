@@ -4,7 +4,7 @@
   "description": "JSON dataset of coronavirus cases: confirmed, deaths and recovered (total and per day) and restrictions in Russia",
   "main": "index.js",
   "scripts": {
-    "start": "node --max_old_space_size=8192 src/index.js",
+    "start": "node --max_old_space_size=16384 src/index.js",
     "prettier": "prettier --config ./.prettierrc --write \"src/**/*{.js,.json}\"",
     "prettier:verify": "prettier --config ./.prettierrc --check \"src/**/*{.js,.json}\"",
     "prettier:staged": "pretty-quick --staged",
