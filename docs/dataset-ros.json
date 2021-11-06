@@ -8442,12 +8442,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 159300,
-    "healed": 134848,
-    "died": 7886,
-    "sick_incr": 650,
-    "healed_incr": 569,
-    "died_incr": 26,
+    "sick": 159948,
+    "healed": 135455,
+    "died": 7914,
+    "sick_incr": 648,
+    "healed_incr": 607,
+    "died_incr": 28,
     "date": "2021-11-06",
     "isolation": {
       "start_date": "03.11.2021 11:17:05",
