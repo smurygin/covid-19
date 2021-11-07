@@ -8471,12 +8471,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 159948,
-    "healed": 135455,
-    "died": 7914,
-    "sick_incr": 648,
-    "healed_incr": 607,
-    "died_incr": 28,
+    "sick": 160595,
+    "healed": 136042,
+    "died": 7943,
+    "sick_incr": 647,
+    "healed_incr": 587,
+    "died_incr": 29,
     "date": "2021-11-07",
     "isolation": {
       "start_date": "03.11.2021 11:17:05",
