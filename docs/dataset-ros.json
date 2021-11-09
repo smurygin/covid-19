@@ -8529,12 +8529,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 161244,
-    "healed": 136625,
-    "died": 7963,
-    "sick_incr": 649,
-    "healed_incr": 583,
-    "died_incr": 20,
+    "sick": 161890,
+    "healed": 137181,
+    "died": 7981,
+    "sick_incr": 646,
+    "healed_incr": 556,
+    "died_incr": 18,
     "date": "2021-11-09",
     "isolation": {
       "start_date": "03.11.2021 11:17:05",
