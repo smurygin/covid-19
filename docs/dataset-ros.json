@@ -8618,12 +8618,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 163188,
-    "healed": 138305,
-    "died": 8048,
-    "sick_incr": 650,
-    "healed_incr": 570,
-    "died_incr": 35,
+    "sick": 163843,
+    "healed": 138922,
+    "died": 8080,
+    "sick_incr": 655,
+    "healed_incr": 617,
+    "died_incr": 32,
     "date": "2021-11-12",
     "isolation": {
       "start_date": "09.11.2021 11:17:05",
