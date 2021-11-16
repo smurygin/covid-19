@@ -8738,12 +8738,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 165806,
-    "healed": 140793,
-    "died": 8176,
-    "sick_incr": 652,
-    "healed_incr": 630,
-    "died_incr": 32,
+    "sick": 166452,
+    "healed": 141409,
+    "died": 8209,
+    "sick_incr": 646,
+    "healed_incr": 616,
+    "died_incr": 33,
     "date": "2021-11-16",
     "isolation": {
       "start_date": "09.11.2021 11:17:05",
