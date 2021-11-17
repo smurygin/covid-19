@@ -14,8 +14,14 @@ dayjs.extend(isYesterdayPlugin);
 dayjs.extend(isTodayPlugin);
 
 const SOURCE_URL = 'https://xn--80aesfpebagmfblc0a.xn--p1ai/information/';
-const DATASET_PATH = '../docs/dataset.json';
-const ROS_DATASET_PATH = '../docs/dataset-ros.json';
+
+const PATHS = {
+  CASES_DATASET: '../docs/dataset.json',
+  ROS_CASES_DATASET: '../docs/dataset-ros.json',
+  VACCINATION_DATASET: '../docs/vac-dataset.json',
+  ROS_VACCINATION_DATASET: '../docs/vac-dataset-ros.json',
+};
+
 const DATE_FORMAT = 'YYYY-MM-DD';
 
 const write = promisify(fs.writeFile);
@@ -35,7 +41,7 @@ function processIsolation(isolation) {
   };
 }
 
-function mapData(origin) {
+function mapCasesData(origin) {
   return {
     name: origin.title,
     code: origin.code,
@@ -56,8 +62,21 @@ function mapData(origin) {
   };
 }
 
+function mapVacData(origin) {
+  return {
+    date: dayjs(origin.covid_free_date).format(DATE_FORMAT),
+    first_dose: origin.first,
+    second_dose: origin.second,
+    first_dose_incr: origin.first_incr,
+    second_dose_incr: origin.second_incr,
+    immune_percent: origin.immune_percent,
+  };
+}
+
 async function getCommonData() {
-  const dataset = require(DATASET_PATH);
+  const casesDataset = require(PATHS.CASES_DATASET);
+  const vacDataset = require(PATHS.VACCINATION_DATASET);
+
   const page = await axios.get(SOURCE_URL);
 
   console.log('🟢 the data has been received');
@@ -66,37 +85,67 @@ async function getCommonData() {
   const cases = JSON.parse(data);
 
   cases.forEach((city) => {
-    const lastInDataset = dataset[city.code][dataset[city.code].length - 1];
-    const todayInDataset = dayjs(lastInDataset.date, DATE_FORMAT).isToday();
+    const lastInCasesDataset = casesDataset[city.code][casesDataset[city.code].length - 1];
+    const todayInDataset = dayjs(lastInCasesDataset.date, DATE_FORMAT).isToday();
 
     if (!todayInDataset) {
-      dataset[city.code].push(mapData(city));
+      casesDataset[city.code].push(mapCasesData(city));
     } else if (
-      city.sick !== lastInDataset.sick ||
-      city.died !== lastInDataset.died ||
-      city.healed !== lastInDataset.healed ||
-      city.sick_incr !== lastInDataset.sick_incr ||
-      city.healed_incr !== lastInDataset.healed_incr ||
-      city.died_incr !== lastInDataset.died_incr ||
-      city.isolation.start_date !== lastInDataset.isolation.start_date
+      city.sick !== lastInCasesDataset.sick ||
+      city.died !== lastInCasesDataset.died ||
+      city.healed !== lastInCasesDataset.healed ||
+      city.sick_incr !== lastInCasesDataset.sick_incr ||
+      city.healed_incr !== lastInCasesDataset.healed_incr ||
+      city.died_incr !== lastInCasesDataset.died_incr ||
+      city.isolation.start_date !== lastInCasesDataset.isolation.start_date
     ) {
-      dataset[city.code][dataset[city.code].length - 1] = mapData(city);
+      casesDataset[city.code][casesDataset[city.code].length - 1] = mapCasesData(city);
+    }
+
+    const lastInVacDataset = vacDataset[city.code][vacDataset[city.code].length - 1];
+
+    if (lastInVacDataset.date !== dayjs(city.covid_free_date).format(DATE_FORMAT)) {
+      vacDataset[city.code].push(mapVacData(city));
+    } else if (
+      lastInVacDataset.first_dose !== city.first ||
+      lastInVacDataset.second_dose !== city.second ||
+      lastInVacDataset.first_dose_incr !== city.first_incr ||
+      lastInVacDataset.second_dose_incr !== city.second_incr ||
+      lastInVacDataset.immune_percent !== city.immune_percent
+    ) {
+      vacDataset[city.code][vacDataset[city.code].length - 1] = mapVacData(city);
     }
   });
 
   console.log('🟢 the data has been proceed');
 
   await write(
-    require.resolve(DATASET_PATH),
-    prettier.format(JSON.stringify(dataset), { printWidth: 120, parser: 'json' })
+    require.resolve(PATHS.CASES_DATASET),
+    prettier.format(JSON.stringify(casesDataset), { printWidth: 120, parser: 'json' })
   );
+
+  console.log('🟢 the cases dataset has been updated');
 
   await write(
-    require.resolve(ROS_DATASET_PATH),
-    prettier.format(JSON.stringify(dataset['RU-ROS']), { printWidth: 120, parser: 'json' })
+    require.resolve(PATHS.ROS_CASES_DATASET),
+    prettier.format(JSON.stringify(casesDataset['RU-ROS']), { printWidth: 120, parser: 'json' })
   );
 
-  console.log('🟢 the dataset has been updated');
+  console.log('🟢 the rov cases dataset has been updated');
+
+  await write(
+    require.resolve(PATHS.VACCINATION_DATASET),
+    prettier.format(JSON.stringify(vacDataset), { printWidth: 120, parser: 'json' })
+  );
+
+  console.log('🟢 the vac dataset has been updated');
+
+  await write(
+    require.resolve(PATHS.ROS_VACCINATION_DATASET),
+    prettier.format(JSON.stringify(vacDataset['RU-ROS']), { printWidth: 120, parser: 'json' })
+  );
+
+  console.log('🟢 the rov vac dataset has been updated');
 }
 
 (async () => {
