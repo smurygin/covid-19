@@ -78,7 +78,7 @@ async function getCommonData() {
       city.sick_incr !== lastInDataset.sick_incr ||
       city.healed_incr !== lastInDataset.healed_incr ||
       city.died_incr !== lastInDataset.died_incr ||
-      city.isolation.start_date !== lastInDataset.isolation.date
+      city.isolation.start_date !== lastInDataset.isolation.start_date
     ) {
       dataset[city.code][dataset[city.code].length - 1] = mapData(city);
     }
