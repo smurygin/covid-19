@@ -8948,12 +8948,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 170353,
-    "healed": 145060,
-    "died": 8427,
-    "sick_incr": 653,
-    "healed_incr": 609,
-    "died_incr": 36,
+    "sick": 171003,
+    "healed": 145668,
+    "died": 8465,
+    "sick_incr": 650,
+    "healed_incr": 608,
+    "died_incr": 38,
     "date": "2021-11-23",
     "isolation": {
       "start_date": "17.11.2021 11:17:05",
