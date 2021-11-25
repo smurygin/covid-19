@@ -9008,12 +9008,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 171647,
-    "healed": 146285,
-    "died": 8502,
-    "sick_incr": 644,
-    "healed_incr": 617,
-    "died_incr": 37,
+    "sick": 172285,
+    "healed": 146897,
+    "died": 8540,
+    "sick_incr": 638,
+    "healed_incr": 612,
+    "died_incr": 38,
     "date": "2021-11-25",
     "isolation": {
       "start_date": "24.11.2021 11:17:05",
