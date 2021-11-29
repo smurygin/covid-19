@@ -9128,12 +9128,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 174236,
-    "healed": 148755,
-    "died": 8655,
-    "sick_incr": 654,
+    "sick": 174891,
+    "healed": 149384,
+    "died": 8695,
+    "sick_incr": 655,
     "healed_incr": 629,
-    "died_incr": 34,
+    "died_incr": 40,
     "date": "2021-11-29",
     "isolation": {
       "start_date": "24.11.2021 11:17:05",
