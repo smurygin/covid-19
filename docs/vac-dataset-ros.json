@@ -1,14 +1,6 @@
 [
   {
-    "date": "2021-12-11",
-    "first_dose": 2005140,
-    "second_dose": 1890495,
-    "first_dose_incr": 58552,
-    "second_dose_incr": 12955,
-    "immune_percent": "54.1"
-  },
-  {
-    "date": "2021-11-18",
+    "date": "2021-11-11",
     "first_dose": 2005140,
     "second_dose": 1890495,
     "first_dose_incr": 58552,
@@ -24,79 +16,7 @@
     "immune_percent": "54.4"
   },
   {
-    "date": "2021-11-20",
-    "first_dose": 2068938,
-    "second_dose": 1905299,
-    "first_dose_incr": 63798,
-    "second_dose_incr": 14804,
-    "immune_percent": "54.4"
-  },
-  {
-    "date": "2021-11-21",
-    "first_dose": 2068938,
-    "second_dose": 1905299,
-    "first_dose_incr": 63798,
-    "second_dose_incr": 14804,
-    "immune_percent": "54.4"
-  },
-  {
-    "date": "2021-11-22",
-    "first_dose": 2068938,
-    "second_dose": 1905299,
-    "first_dose_incr": 63798,
-    "second_dose_incr": 14804,
-    "immune_percent": "54.4"
-  },
-  {
-    "date": "2021-11-23",
-    "first_dose": 2068938,
-    "second_dose": 1905299,
-    "first_dose_incr": 63798,
-    "second_dose_incr": 14804,
-    "immune_percent": "54.4"
-  },
-  {
-    "date": "2021-11-24",
-    "first_dose": 2068938,
-    "second_dose": 1905299,
-    "first_dose_incr": 63798,
-    "second_dose_incr": 14804,
-    "immune_percent": "54.4"
-  },
-  {
-    "date": "2021-11-25",
-    "first_dose": 2068938,
-    "second_dose": 1905299,
-    "first_dose_incr": 63798,
-    "second_dose_incr": 14804,
-    "immune_percent": "54.4"
-  },
-  {
     "date": "2021-11-26",
-    "first_dose": 2135814,
-    "second_dose": 1954261,
-    "first_dose_incr": 66876,
-    "second_dose_incr": 48962,
-    "immune_percent": "54.6"
-  },
-  {
-    "date": "2021-11-27",
-    "first_dose": 2135814,
-    "second_dose": 1954261,
-    "first_dose_incr": 66876,
-    "second_dose_incr": 48962,
-    "immune_percent": "54.6"
-  },
-  {
-    "date": "2021-11-28",
-    "first_dose": 2135814,
-    "second_dose": 1954261,
-    "first_dose_incr": 66876,
-    "second_dose_incr": 48962,
-    "immune_percent": "54.6"
-  },
-  {
-    "date": "2021-11-29",
     "first_dose": 2135814,
     "second_dose": 1954261,
     "first_dose_incr": 66876,

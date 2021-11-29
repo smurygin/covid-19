@@ -22,7 +22,8 @@ const PATHS = {
   ROS_VACCINATION_DATASET: '../docs/vac-dataset-ros.json',
 };
 
-const DATE_FORMAT = 'YYYY-MM-DD';
+const DATASET_DATE_FORMAT = 'YYYY-MM-DD';
+const ORIGIN_DATE_FORMAT = 'DD.MM.YYYY';
 
 const write = promisify(fs.writeFile);
 
@@ -51,7 +52,7 @@ function mapCasesData(origin) {
     sick_incr: origin.sick_incr,
     healed_incr: origin.healed_incr,
     died_incr: origin.died_incr,
-    date: dayjs(new Date()).format(DATE_FORMAT),
+    date: dayjs(new Date()).format(DATASET_DATE_FORMAT),
     isolation: origin.isolation
       ? processIsolation(origin.isolation)
       : {
@@ -64,7 +65,7 @@ function mapCasesData(origin) {
 
 function mapVacData(origin) {
   return {
-    date: dayjs(origin.covid_free_date).format(DATE_FORMAT),
+    date: dayjs(origin.covid_free.date).format(DATASET_DATE_FORMAT),
     first_dose: origin.first,
     second_dose: origin.second,
     first_dose_incr: origin.first_incr,
@@ -86,7 +87,7 @@ async function getCommonData() {
 
   cases.forEach((city) => {
     const lastInCasesDataset = casesDataset[city.code][casesDataset[city.code].length - 1];
-    const todayInDataset = dayjs(lastInCasesDataset.date, DATE_FORMAT).isToday();
+    const todayInDataset = dayjs(lastInCasesDataset.date, DATASET_DATE_FORMAT).isToday();
 
     if (!todayInDataset) {
       casesDataset[city.code].push(mapCasesData(city));
@@ -104,7 +105,7 @@ async function getCommonData() {
 
     const lastInVacDataset = vacDataset[city.code][vacDataset[city.code].length - 1];
 
-    if (lastInVacDataset.date !== dayjs(city.covid_free_date).format(DATE_FORMAT)) {
+    if (lastInVacDataset.date !== dayjs(city.covid_free.date, ORIGIN_DATE_FORMAT).format(DATASET_DATE_FORMAT)) {
       vacDataset[city.code].push(mapVacData(city));
     } else if (
       lastInVacDataset.first_dose !== city.first ||
