@@ -55,6 +55,14 @@
       "first_dose_incr": 172007,
       "second_dose_incr": 138061,
       "immune_percent": "71"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 6252513,
+      "second_dose": 5676308,
+      "first_dose_incr": 172007,
+      "second_dose_incr": 138061,
+      "immune_percent": "71"
     }
   ],
   "RU-SPE": [
