@@ -255,6 +255,14 @@
       "first_dose_incr": 172007,
       "second_dose_incr": 138061,
       "immune_percent": "71"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 6252513,
+      "second_dose": 5676308,
+      "first_dose_incr": 172007,
+      "second_dose_incr": 138061,
+      "immune_percent": "71"
     }
   ],
   "RU-SPE": [
@@ -2322,6 +2330,14 @@
     },
     {
       "date": "2021-11-26",
+      "first_dose": 125648,
+      "second_dose": 110315,
+      "first_dose_incr": 6074,
+      "second_dose_incr": 3979,
+      "immune_percent": "36.3"
+    },
+    {
+      "date": "2021-03-12",
       "first_dose": 125648,
       "second_dose": 110315,
       "first_dose_incr": 6074,
