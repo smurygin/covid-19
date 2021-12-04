@@ -9278,12 +9278,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 177498,
-    "healed": 151847,
-    "died": 8832,
-    "sick_incr": 655,
-    "healed_incr": 613,
-    "died_incr": 31,
+    "sick": 178154,
+    "healed": 152449,
+    "died": 8867,
+    "sick_incr": 656,
+    "healed_incr": 602,
+    "died_incr": 35,
     "date": "2021-12-04",
     "isolation": {
       "start_date": "03.12.2021 14:30:00",
