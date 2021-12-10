@@ -9458,12 +9458,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 181410,
-    "healed": 155405,
-    "died": 9042,
-    "sick_incr": 648,
-    "healed_incr": 593,
-    "died_incr": 33,
+    "sick": 182064,
+    "healed": 156036,
+    "died": 9074,
+    "sick_incr": 654,
+    "healed_incr": 631,
+    "died_incr": 32,
     "date": "2021-12-10",
     "isolation": {
       "start_date": "03.12.2021 14:30:00",
