@@ -9668,12 +9668,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 185964,
-    "healed": 161225,
-    "died": 9245,
-    "sick_incr": 655,
-    "healed_incr": 1126,
-    "died_incr": 34,
+    "sick": 186610,
+    "healed": 162250,
+    "died": 9269,
+    "sick_incr": 646,
+    "healed_incr": 1025,
+    "died_incr": 24,
     "date": "2021-12-17",
     "isolation": {
       "start_date": "03.12.2021 14:30:00",
