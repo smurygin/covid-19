@@ -1054,5 +1054,13 @@
     "first_dose_incr": 120279,
     "second_dose_incr": 142334,
     "immune_percent": "57.8"
+  },
+  {
+    "date": "Invalid Date",
+    "first_dose": 2379211,
+    "second_dose": 2230882,
+    "first_dose_incr": 120279,
+    "second_dose_incr": 142334,
+    "immune_percent": "57.8"
   }
 ]
