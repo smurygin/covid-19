@@ -9758,12 +9758,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 187878,
-    "healed": 163894,
-    "died": 9314,
-    "sick_incr": 629,
-    "healed_incr": 721,
-    "died_incr": 20,
+    "sick": 188479,
+    "healed": 164595,
+    "died": 9335,
+    "sick_incr": 601,
+    "healed_incr": 701,
+    "died_incr": 21,
     "date": "2021-12-20",
     "isolation": {
       "start_date": "03.12.2021 14:30:00",
