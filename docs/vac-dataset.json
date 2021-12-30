@@ -2015,6 +2015,14 @@
       "first_dose_incr": 53074,
       "second_dose_incr": 95660,
       "immune_percent": "71.4"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 6723179,
+      "second_dose": 6364619,
+      "first_dose_incr": 53074,
+      "second_dose_incr": 95660,
+      "immune_percent": "71.4"
     }
   ],
   "RU-SPE": [
@@ -3761,6 +3769,14 @@
       "first_dose_incr": 64069,
       "second_dose_incr": 124786,
       "immune_percent": "79.6"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 3257648,
+      "second_dose": 3073655,
+      "first_dose_incr": 36577,
+      "second_dose_incr": 79672,
+      "immune_percent": "80.9"
     },
     {
       "date": "Invalid Date",
@@ -5571,6 +5587,14 @@
       "first_dose_incr": 36436,
       "second_dose_incr": 62287,
       "immune_percent": "77.2"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 4792390,
+      "second_dose": 4594900,
+      "first_dose_incr": 36436,
+      "second_dose_incr": 62287,
+      "immune_percent": "77.2"
     }
   ],
   "RU-NIZ": [
@@ -7317,6 +7341,14 @@
       "first_dose_incr": 25662,
       "second_dose_incr": 47922,
       "immune_percent": "60.5"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 1769711,
+      "second_dose": 1690549,
+      "first_dose_incr": 16700,
+      "second_dose_incr": 30696,
+      "immune_percent": "62.1"
     },
     {
       "date": "Invalid Date",
@@ -9127,6 +9159,14 @@
       "first_dose_incr": 23022,
       "second_dose_incr": 46877,
       "immune_percent": "58.5"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 2527265,
+      "second_dose": 2369028,
+      "first_dose_incr": 23022,
+      "second_dose_incr": 46877,
+      "immune_percent": "58.5"
     }
   ],
   "RU-VOR": [
@@ -10873,6 +10913,14 @@
       "first_dose_incr": 17393,
       "second_dose_incr": 33443,
       "immune_percent": "57.4"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 1315134,
+      "second_dose": 1267314,
+      "first_dose_incr": 10328,
+      "second_dose_incr": 20453,
+      "immune_percent": "59.1"
     },
     {
       "date": "Invalid Date",
@@ -12683,6 +12731,14 @@
       "first_dose_incr": 16417,
       "second_dose_incr": 29922,
       "immune_percent": "58.8"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 2431656,
+      "second_dose": 2312579,
+      "first_dose_incr": 16417,
+      "second_dose_incr": 29922,
+      "immune_percent": "58.8"
     }
   ],
   "RU-SAM": [
@@ -14429,6 +14485,14 @@
       "first_dose_incr": 31892,
       "second_dose_incr": 54964,
       "immune_percent": "65.6"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 1957675,
+      "second_dose": 1873271,
+      "first_dose_incr": 13896,
+      "second_dose_incr": 29234,
+      "immune_percent": "67.6"
     },
     {
       "date": "Invalid Date",
@@ -16239,6 +16303,14 @@
       "first_dose_incr": 18547,
       "second_dose_incr": 34943,
       "immune_percent": "59.9"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 1462102,
+      "second_dose": 1368349,
+      "first_dose_incr": 18547,
+      "second_dose_incr": 34943,
+      "immune_percent": "59.9"
     }
   ],
   "RU-PER": [
@@ -17985,6 +18057,14 @@
       "first_dose_incr": 22475,
       "second_dose_incr": 43269,
       "immune_percent": "60"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 1272005,
+      "second_dose": 1202207,
+      "first_dose_incr": 13640,
+      "second_dose_incr": 26684,
+      "immune_percent": "62.1"
     },
     {
       "date": "Invalid Date",
@@ -19795,6 +19875,14 @@
       "first_dose_incr": 16262,
       "second_dose_incr": 32168,
       "immune_percent": "56.5"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 1221625,
+      "second_dose": 1133562,
+      "first_dose_incr": 16262,
+      "second_dose_incr": 32168,
+      "immune_percent": "56.5"
     }
   ],
   "RU-CHE": [
@@ -21541,6 +21629,14 @@
       "first_dose_incr": 33391,
       "second_dose_incr": 59589,
       "immune_percent": "55.5"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 1758592,
+      "second_dose": 1675261,
+      "first_dose_incr": 16518,
+      "second_dose_incr": 34291,
+      "immune_percent": "57.6"
     },
     {
       "date": "Invalid Date",
@@ -23351,6 +23447,14 @@
       "first_dose_incr": 10431,
       "second_dose_incr": 22022,
       "immune_percent": "55.4"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 1261857,
+      "second_dose": 1199534,
+      "first_dose_incr": 10431,
+      "second_dose_incr": 22022,
+      "immune_percent": "55.4"
     }
   ],
   "RU-VGG": [
@@ -25097,6 +25201,14 @@
       "first_dose_incr": 24515,
       "second_dose_incr": 38236,
       "immune_percent": "59.4"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 1445446,
+      "second_dose": 1369170,
+      "first_dose_incr": 19381,
+      "second_dose_incr": 23044,
+      "immune_percent": "60.4"
     },
     {
       "date": "Invalid Date",
@@ -26907,6 +27019,14 @@
       "first_dose_incr": 16280,
       "second_dose_incr": 27316,
       "immune_percent": "69.6"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 1065072,
+      "second_dose": 1013203,
+      "first_dose_incr": 16280,
+      "second_dose_incr": 27316,
+      "immune_percent": "69.6"
     }
   ],
   "RU-ARK": [
@@ -28653,6 +28773,14 @@
       "first_dose_incr": 9494,
       "second_dose_incr": 17891,
       "immune_percent": "69.1"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 576663,
+      "second_dose": 551017,
+      "first_dose_incr": 6049,
+      "second_dose_incr": 11454,
+      "immune_percent": "70"
     },
     {
       "date": "Invalid Date",
@@ -30463,6 +30591,14 @@
       "first_dose_incr": 12948,
       "second_dose_incr": 24173,
       "immune_percent": "64.9"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 1015464,
+      "second_dose": 956498,
+      "first_dose_incr": 12948,
+      "second_dose_incr": 24173,
+      "immune_percent": "64.9"
     }
   ],
   "RU-STA": [
@@ -32209,6 +32345,14 @@
       "first_dose_incr": 28876,
       "second_dose_incr": 44245,
       "immune_percent": "43.6"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 1217696,
+      "second_dose": 1154770,
+      "first_dose_incr": 15068,
+      "second_dose_incr": 24057,
+      "immune_percent": "45.9"
     },
     {
       "date": "Invalid Date",
@@ -34019,6 +34163,14 @@
       "first_dose_incr": 5973,
       "second_dose_incr": 10772,
       "immune_percent": "68.6"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 624308,
+      "second_dose": 595802,
+      "first_dose_incr": 5973,
+      "second_dose_incr": 10772,
+      "immune_percent": "68.6"
     }
   ],
   "RU-KHA": [
@@ -35765,6 +35917,14 @@
       "first_dose_incr": 18385,
       "second_dose_incr": 21788,
       "immune_percent": "65"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 680979,
+      "second_dose": 621562,
+      "first_dose_incr": 7882,
+      "second_dose_incr": 13201,
+      "immune_percent": "66.9"
     },
     {
       "date": "Invalid Date",
@@ -37575,6 +37735,14 @@
       "first_dose_incr": 24984,
       "second_dose_incr": 46841,
       "immune_percent": "58.2"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 2184627,
+      "second_dose": 2043647,
+      "first_dose_incr": 24984,
+      "second_dose_incr": 46841,
+      "immune_percent": "58.2"
     }
   ],
   "RU-ALT": [
@@ -39321,6 +39489,14 @@
       "first_dose_incr": 21405,
       "second_dose_incr": 35577,
       "immune_percent": "49.7"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 1101074,
+      "second_dose": 1040588,
+      "first_dose_incr": 14107,
+      "second_dose_incr": 22469,
+      "immune_percent": "51.6"
     },
     {
       "date": "Invalid Date",
@@ -41131,6 +41307,14 @@
       "first_dose_incr": 10918,
       "second_dose_incr": 17335,
       "immune_percent": "60.3"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 1017768,
+      "second_dose": 969577,
+      "first_dose_incr": 10918,
+      "second_dose_incr": 17335,
+      "immune_percent": "60.3"
     }
   ],
   "RU-KDA": [
@@ -42869,6 +43053,14 @@
       "first_dose_incr": 63177,
       "second_dose_incr": 118606,
       "immune_percent": "51.2"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 3192198,
+      "second_dose": 3002166,
+      "first_dose_incr": 39457,
+      "second_dose_incr": 73039,
+      "immune_percent": "52.3"
     },
     {
       "date": "Invalid Date",
@@ -44679,6 +44871,14 @@
       "first_dose_incr": 10703,
       "second_dose_incr": 12803,
       "immune_percent": "69.2"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 808775,
+      "second_dose": 768627,
+      "first_dose_incr": 10703,
+      "second_dose_incr": 12803,
+      "immune_percent": "69.2"
     }
   ],
   "RU-KHM": [
@@ -46424,6 +46624,14 @@
       "second_dose": 873722,
       "first_dose_incr": 15073,
       "second_dose_incr": 23926,
+      "immune_percent": "58.6"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 934921,
+      "second_dose": 889039,
+      "first_dose_incr": 10143,
+      "second_dose_incr": 15317,
       "immune_percent": "58.6"
     },
     {
@@ -48235,6 +48443,14 @@
       "first_dose_incr": 4904,
       "second_dose_incr": 7084,
       "immune_percent": "65.4"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 392965,
+      "second_dose": 371868,
+      "first_dose_incr": 4904,
+      "second_dose_incr": 7084,
+      "immune_percent": "65.4"
     }
   ],
   "RU-LEN": [
@@ -49981,6 +50197,14 @@
       "first_dose_incr": 17389,
       "second_dose_incr": 32077,
       "immune_percent": "49.6"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 942449,
+      "second_dose": 888811,
+      "first_dose_incr": 11310,
+      "second_dose_incr": 21629,
+      "immune_percent": "51.6"
     },
     {
       "date": "Invalid Date",
@@ -51791,6 +52015,14 @@
       "first_dose_incr": 8189,
       "second_dose_incr": 15207,
       "immune_percent": "63.7"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 573079,
+      "second_dose": 536244,
+      "first_dose_incr": 8189,
+      "second_dose_incr": 15207,
+      "immune_percent": "63.7"
     }
   ],
   "RU-BRY": [
@@ -53537,6 +53769,14 @@
       "first_dose_incr": 8705,
       "second_dose_incr": 15971,
       "immune_percent": "63.5"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 595435,
+      "second_dose": 569308,
+      "first_dose_incr": 4861,
+      "second_dose_incr": 9312,
+      "immune_percent": "64.8"
     },
     {
       "date": "Invalid Date",
@@ -55347,6 +55587,14 @@
       "first_dose_incr": 4178,
       "second_dose_incr": 7608,
       "immune_percent": "74.7"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 510256,
+      "second_dose": 488323,
+      "first_dose_incr": 4178,
+      "second_dose_incr": 7608,
+      "immune_percent": "74.7"
     }
   ],
   "RU-TVE": [
@@ -57093,6 +57341,14 @@
       "first_dose_incr": 7946,
       "second_dose_incr": 14472,
       "immune_percent": "59.9"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 599780,
+      "second_dose": 575322,
+      "first_dose_incr": 4376,
+      "second_dose_incr": 8497,
+      "immune_percent": "61.4"
     },
     {
       "date": "Invalid Date",
@@ -58903,6 +59159,14 @@
       "first_dose_incr": 6757,
       "second_dose_incr": 12388,
       "immune_percent": "69.4"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 626799,
+      "second_dose": 580032,
+      "first_dose_incr": 6757,
+      "second_dose_incr": 12388,
+      "immune_percent": "69.4"
     }
   ],
   "RU-PRI": [
@@ -60649,6 +60913,14 @@
       "first_dose_incr": 15257,
       "second_dose_incr": 34281,
       "immune_percent": "54.9"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 1029869,
+      "second_dose": 967372,
+      "first_dose_incr": 7314,
+      "second_dose_incr": 19658,
+      "immune_percent": "57.8"
     },
     {
       "date": "Invalid Date",
@@ -62459,6 +62731,14 @@
       "first_dose_incr": 3900,
       "second_dose_incr": 6569,
       "immune_percent": "80.4"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 339430,
+      "second_dose": 323490,
+      "first_dose_incr": 3900,
+      "second_dose_incr": 6569,
+      "immune_percent": "80.4"
     }
   ],
   "RU-NVS": [
@@ -64205,6 +64485,14 @@
       "first_dose_incr": 33625,
       "second_dose_incr": 63707,
       "immune_percent": "45"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 1478922,
+      "second_dose": 1390799,
+      "first_dose_incr": 17946,
+      "second_dose_incr": 35971,
+      "immune_percent": "46.8"
     },
     {
       "date": "Invalid Date",
@@ -66015,6 +66303,14 @@
       "first_dose_incr": 10607,
       "second_dose_incr": 17485,
       "immune_percent": "70.9"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 987287,
+      "second_dose": 932638,
+      "first_dose_incr": 10607,
+      "second_dose_incr": 17485,
+      "immune_percent": "70.9"
     }
   ],
   "RU-YAR": [
@@ -67761,6 +68057,14 @@
       "first_dose_incr": 11541,
       "second_dose_incr": 16830,
       "immune_percent": "51.6"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 582173,
+      "second_dose": 555215,
+      "first_dose_incr": 6536,
+      "second_dose_incr": 10793,
+      "immune_percent": "53.7"
     },
     {
       "date": "Invalid Date",
@@ -69571,6 +69875,14 @@
       "first_dose_incr": 5959,
       "second_dose_incr": 10243,
       "immune_percent": "66.8"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 630001,
+      "second_dose": 608089,
+      "first_dose_incr": 5959,
+      "second_dose_incr": 10243,
+      "immune_percent": "66.8"
     }
   ],
   "RU-SMO": [
@@ -71317,6 +71629,14 @@
       "first_dose_incr": 8444,
       "second_dose_incr": 12030,
       "immune_percent": "60.2"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 431752,
+      "second_dose": 412443,
+      "first_dose_incr": 4964,
+      "second_dose_incr": 7595,
+      "immune_percent": "62.6"
     },
     {
       "date": "Invalid Date",
@@ -73127,6 +73447,14 @@
       "first_dose_incr": 5413,
       "second_dose_incr": 8627,
       "immune_percent": "73.3"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 604242,
+      "second_dose": 579127,
+      "first_dose_incr": 5413,
+      "second_dose_incr": 8627,
+      "immune_percent": "73.3"
     }
   ],
   "RU-AST": [
@@ -74873,6 +75201,14 @@
       "first_dose_incr": 9961,
       "second_dose_incr": 14977,
       "immune_percent": "63.7"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 517504,
+      "second_dose": 487358,
+      "first_dose_incr": 5658,
+      "second_dose_incr": 8891,
+      "immune_percent": "65.2"
     },
     {
       "date": "Invalid Date",
@@ -76683,6 +77019,14 @@
       "first_dose_incr": 7344,
       "second_dose_incr": 13721,
       "immune_percent": "59.2"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 744426,
+      "second_dose": 702681,
+      "first_dose_incr": 7344,
+      "second_dose_incr": 13721,
+      "immune_percent": "59.2"
     }
   ],
   "RU-LIP": [
@@ -78429,6 +78773,14 @@
       "first_dose_incr": 8565,
       "second_dose_incr": 15501,
       "immune_percent": "74.4"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 692135,
+      "second_dose": 670730,
+      "first_dose_incr": 4758,
+      "second_dose_incr": 10422,
+      "immune_percent": "75.8"
     },
     {
       "date": "Invalid Date",
@@ -80239,6 +80591,14 @@
       "first_dose_incr": 14771,
       "second_dose_incr": 25956,
       "immune_percent": "48.1"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 1260260,
+      "second_dose": 1180151,
+      "first_dose_incr": 14771,
+      "second_dose_incr": 25956,
+      "immune_percent": "48.1"
     }
   ],
   "RU-BEL": [
@@ -81985,6 +82345,14 @@
       "first_dose_incr": 22331,
       "second_dose_incr": 31839,
       "immune_percent": "71.1"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 1130944,
+      "second_dose": 1090875,
+      "first_dose_incr": 11205,
+      "second_dose_incr": 16543,
+      "immune_percent": "72.3"
     },
     {
       "date": "Invalid Date",
@@ -83795,6 +84163,14 @@
       "first_dose_incr": 4940,
       "second_dose_incr": 9818,
       "immune_percent": "49.6"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 581775,
+      "second_dose": 556872,
+      "first_dose_incr": 4940,
+      "second_dose_incr": 9818,
+      "immune_percent": "49.6"
     }
   ],
   "RU-KIR": [
@@ -85573,6 +85949,14 @@
       "first_dose_incr": 7892,
       "second_dose_incr": 14322,
       "immune_percent": "55.3"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 704856,
+      "second_dose": 672514,
+      "first_dose_incr": 7892,
+      "second_dose_incr": 14322,
+      "immune_percent": "55.3"
     }
   ],
   "RU-SA": [
@@ -87318,6 +87702,14 @@
       "second_dose": 479376,
       "first_dose_incr": 9552,
       "second_dose_incr": 12564,
+      "immune_percent": "63.1"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 520144,
+      "second_dose": 487470,
+      "first_dose_incr": 5614,
+      "second_dose_incr": 8094,
       "immune_percent": "63.1"
     },
     {
@@ -89129,6 +89521,14 @@
       "first_dose_incr": 5993,
       "second_dose_incr": 9456,
       "immune_percent": "67.5"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 570419,
+      "second_dose": 523810,
+      "first_dose_incr": 5993,
+      "second_dose_incr": 9456,
+      "immune_percent": "67.5"
     }
   ],
   "RU-TUL": [
@@ -90875,6 +91275,14 @@
       "first_dose_incr": 12685,
       "second_dose_incr": 20227,
       "immune_percent": "55.8"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 828348,
+      "second_dose": 795722,
+      "first_dose_incr": 7598,
+      "second_dose_incr": 12287,
+      "immune_percent": "56.9"
     },
     {
       "date": "Invalid Date",
@@ -92685,6 +93093,14 @@
       "first_dose_incr": 4267,
       "second_dose_incr": 5999,
       "immune_percent": "70.1"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 295602,
+      "second_dose": 279831,
+      "first_dose_incr": 4267,
+      "second_dose_incr": 5999,
+      "immune_percent": "70.1"
     }
   ],
   "RU-IVA": [
@@ -94431,6 +94847,14 @@
       "first_dose_incr": 5796,
       "second_dose_incr": 8199,
       "immune_percent": "46.8"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 460900,
+      "second_dose": 438954,
+      "first_dose_incr": 3036,
+      "second_dose_incr": 5038,
+      "immune_percent": "48.1"
     },
     {
       "date": "Invalid Date",
@@ -96241,6 +96665,14 @@
       "first_dose_incr": 3553,
       "second_dose_incr": 7351,
       "immune_percent": "72"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 421012,
+      "second_dose": 400326,
+      "first_dose_incr": 3553,
+      "second_dose_incr": 7351,
+      "immune_percent": "72"
     }
   ],
   "RU-DA": [
@@ -97987,6 +98419,14 @@
       "first_dose_incr": 22375,
       "second_dose_incr": 24985,
       "immune_percent": "28.8"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 756252,
+      "second_dose": 698137,
+      "first_dose_incr": 21037,
+      "second_dose_incr": 20169,
+      "immune_percent": "29.5"
     },
     {
       "date": "Invalid Date",
@@ -99797,6 +100237,14 @@
       "first_dose_incr": 3002,
       "second_dose_incr": 4023,
       "immune_percent": "62.8"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 287890,
+      "second_dose": 276881,
+      "first_dose_incr": 3002,
+      "second_dose_incr": 4023,
+      "immune_percent": "62.8"
     }
   ],
   "RU-KLU": [
@@ -101543,6 +101991,14 @@
       "first_dose_incr": 9594,
       "second_dose_incr": 17925,
       "immune_percent": "58.5"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 555426,
+      "second_dose": 522441,
+      "first_dose_incr": 5622,
+      "second_dose_incr": 11021,
+      "immune_percent": "61"
     },
     {
       "date": "Invalid Date",
@@ -103353,6 +103809,14 @@
       "first_dose_incr": 2416,
       "second_dose_incr": 4373,
       "immune_percent": "70.5"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 293569,
+      "second_dose": 279523,
+      "first_dose_incr": 2416,
+      "second_dose_incr": 4373,
+      "immune_percent": "70.5"
     }
   ],
   "RU-TOM": [
@@ -105099,6 +105563,14 @@
       "first_dose_incr": 11465,
       "second_dose_incr": 20094,
       "immune_percent": "46.1"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 528714,
+      "second_dose": 494924,
+      "first_dose_incr": 7100,
+      "second_dose_incr": 12804,
+      "immune_percent": "48.3"
     },
     {
       "date": "Invalid Date",
@@ -106909,6 +107381,14 @@
       "first_dose_incr": 7292,
       "second_dose_incr": 11930,
       "immune_percent": "55.4"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 558109,
+      "second_dose": 525756,
+      "first_dose_incr": 7292,
+      "second_dose_incr": 11930,
+      "immune_percent": "55.4"
     }
   ],
   "RU-TAM": [
@@ -108655,6 +109135,14 @@
       "first_dose_incr": 10427,
       "second_dose_incr": 12275,
       "immune_percent": "56.5"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 546719,
+      "second_dose": 519982,
+      "first_dose_incr": 6209,
+      "second_dose_incr": 8062,
+      "immune_percent": "56.8"
     },
     {
       "date": "Invalid Date",
@@ -110465,6 +110953,14 @@
       "first_dose_incr": 2866,
       "second_dose_incr": 3985,
       "immune_percent": "72.1"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 258032,
+      "second_dose": 242678,
+      "first_dose_incr": 2866,
+      "second_dose_incr": 3985,
+      "immune_percent": "72.1"
     }
   ],
   "RU-SEV": [
@@ -112210,6 +112706,14 @@
       "second_dose": 321477,
       "first_dose_incr": 6609,
       "second_dose_incr": 7535,
+      "immune_percent": "90.2"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 341644,
+      "second_dose": 324428,
+      "first_dose_incr": 1677,
+      "second_dose_incr": 2951,
       "immune_percent": "90.2"
     },
     {
@@ -114021,6 +114525,14 @@
       "first_dose_incr": 3764,
       "second_dose_incr": 7728,
       "immune_percent": "63.3"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 464310,
+      "second_dose": 434755,
+      "first_dose_incr": 3764,
+      "second_dose_incr": 7728,
+      "immune_percent": "63.3"
     }
   ],
   "RU-KGN": [
@@ -115767,6 +116279,14 @@
       "first_dose_incr": 9352,
       "second_dose_incr": 12723,
       "immune_percent": "65"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 481294,
+      "second_dose": 454931,
+      "first_dose_incr": 5117,
+      "second_dose_incr": 7134,
+      "immune_percent": "67.9"
     },
     {
       "date": "Invalid Date",
@@ -117577,6 +118097,14 @@
       "first_dose_incr": 3636,
       "second_dose_incr": 6062,
       "immune_percent": "70.2"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 326262,
+      "second_dose": 315685,
+      "first_dose_incr": 3636,
+      "second_dose_incr": 6062,
+      "immune_percent": "70.2"
     }
   ],
   "RU-CU": [
@@ -119323,6 +119851,14 @@
       "first_dose_incr": 11836,
       "second_dose_incr": 20759,
       "immune_percent": "48.7"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 593068,
+      "second_dose": 559584,
+      "first_dose_incr": 7489,
+      "second_dose_incr": 12056,
+      "immune_percent": "49.8"
     },
     {
       "date": "Invalid Date",
@@ -121133,6 +121669,14 @@
       "first_dose_incr": 3032,
       "second_dose_incr": 4276,
       "immune_percent": "40.6"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 270806,
+      "second_dose": 257128,
+      "first_dose_incr": 3032,
+      "second_dose_incr": 4276,
+      "immune_percent": "40.6"
     }
   ],
   "RU-SAK": [
@@ -122879,6 +123423,14 @@
       "first_dose_incr": 4001,
       "second_dose_incr": 6324,
       "immune_percent": "60.5"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 268572,
+      "second_dose": 255635,
+      "first_dose_incr": 1980,
+      "second_dose_incr": 3695,
+      "immune_percent": "61.2"
     },
     {
       "date": "Invalid Date",
@@ -124689,6 +125241,14 @@
       "first_dose_incr": 17212,
       "second_dose_incr": 37099,
       "immune_percent": "56.5"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 2256504,
+      "second_dose": 2160623,
+      "first_dose_incr": 17212,
+      "second_dose_incr": 37099,
+      "immune_percent": "56.5"
     }
   ],
   "RU-MO": [
@@ -126435,6 +126995,14 @@
       "first_dose_incr": 9990,
       "second_dose_incr": 13424,
       "immune_percent": "62"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 520530,
+      "second_dose": 504238,
+      "first_dose_incr": 6046,
+      "second_dose_incr": 7794,
+      "immune_percent": "63"
     },
     {
       "date": "Invalid Date",
@@ -128245,6 +128813,14 @@
       "first_dose_incr": 1634,
       "second_dose_incr": 1798,
       "immune_percent": "65.1"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 134252,
+      "second_dose": 130002,
+      "first_dose_incr": 1634,
+      "second_dose_incr": 1798,
+      "immune_percent": "65.1"
     }
   ],
   "RU-TY": [
@@ -129991,6 +130567,14 @@
       "first_dose_incr": 2345,
       "second_dose_incr": 2926,
       "immune_percent": "76.9"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 170548,
+      "second_dose": 157514,
+      "first_dose_incr": 1730,
+      "second_dose_incr": 2258,
+      "immune_percent": "78.1"
     },
     {
       "date": "Invalid Date",
@@ -131801,6 +132385,14 @@
       "first_dose_incr": 2789,
       "second_dose_incr": 2680,
       "immune_percent": "38.6"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 168583,
+      "second_dose": 161256,
+      "first_dose_incr": 2789,
+      "second_dose_incr": 2680,
+      "immune_percent": "38.6"
     }
   ],
   "RU-SE": [
@@ -133547,6 +134139,14 @@
       "first_dose_incr": 1740,
       "second_dose_incr": 4423,
       "immune_percent": "46.9"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 297469,
+      "second_dose": 289596,
+      "first_dose_incr": 2485,
+      "second_dose_incr": 3151,
+      "immune_percent": "46.5"
     },
     {
       "date": "Invalid Date",
@@ -135357,6 +135957,14 @@
       "first_dose_incr": 7678,
       "second_dose_incr": 11141,
       "immune_percent": "66.2"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 706934,
+      "second_dose": 635500,
+      "first_dose_incr": 7678,
+      "second_dose_incr": 11141,
+      "immune_percent": "66.2"
     }
   ],
   "RU-IN": [
@@ -137103,6 +137711,14 @@
       "first_dose_incr": 13240,
       "second_dose_incr": 9853,
       "immune_percent": "56.3"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 231194,
+      "second_dose": 213012,
+      "first_dose_incr": 12861,
+      "second_dose_incr": 12830,
+      "immune_percent": "57.3"
     },
     {
       "date": "Invalid Date",
@@ -138913,6 +139529,14 @@
       "first_dose_incr": 3766,
       "second_dose_incr": 7585,
       "immune_percent": "59.6"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 356219,
+      "second_dose": 343193,
+      "first_dose_incr": 3766,
+      "second_dose_incr": 7585,
+      "immune_percent": "59.6"
     }
   ],
   "RU-GA": [
@@ -140691,6 +141315,14 @@
       "first_dose_incr": 2061,
       "second_dose_incr": 2584,
       "immune_percent": "59"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 105770,
+      "second_dose": 99141,
+      "first_dose_incr": 2061,
+      "second_dose_incr": 2584,
+      "immune_percent": "59"
     }
   ],
   "RU-AD": [
@@ -142437,6 +143069,14 @@
       "first_dose_incr": 3019,
       "second_dose_incr": 4870,
       "immune_percent": "47.4"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 190449,
+      "second_dose": 182125,
+      "first_dose_incr": 2140,
+      "second_dose_incr": 3171,
+      "immune_percent": "48.3"
     },
     {
       "date": "Invalid Date",
@@ -144263,6 +144903,14 @@
       "first_dose_incr": 1665,
       "second_dose_incr": 2794,
       "immune_percent": "44.5"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 144661,
+      "second_dose": 135717,
+      "first_dose_incr": 1665,
+      "second_dose_incr": 2794,
+      "immune_percent": "44.5"
     }
   ],
   "RU-MAG": [
@@ -146009,6 +146657,14 @@
       "first_dose_incr": 1966,
       "second_dose_incr": 2575,
       "immune_percent": "60"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 79957,
+      "second_dose": 74822,
+      "first_dose_incr": 1507,
+      "second_dose_incr": 2012,
+      "immune_percent": "61.2"
     },
     {
       "date": "Invalid Date",
@@ -147819,6 +148475,14 @@
       "first_dose_incr": 1365,
       "second_dose_incr": 2037,
       "immune_percent": "61.2"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 71669,
+      "second_dose": 65838,
+      "first_dose_incr": 1365,
+      "second_dose_incr": 2037,
+      "immune_percent": "61.2"
     }
   ],
   "RU-NEN": [
@@ -149597,6 +150261,14 @@
       "first_dose_incr": 361,
       "second_dose_incr": 401,
       "immune_percent": "69.4"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 23441,
+      "second_dose": 22563,
+      "first_dose_incr": 361,
+      "second_dose_incr": 401,
+      "immune_percent": "69.4"
     }
   ],
   "RU-CHU": [
@@ -151343,6 +152015,14 @@
       "first_dose_incr": 607,
       "second_dose_incr": 748,
       "immune_percent": "80.3"
+    },
+    {
+      "date": "Invalid Date",
+      "first_dose": 36995,
+      "second_dose": 35132,
+      "first_dose_incr": 406,
+      "second_dose_incr": 459,
+      "immune_percent": "80.7"
     },
     {
       "date": "Invalid Date",
