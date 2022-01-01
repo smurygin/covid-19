@@ -10120,12 +10120,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 193927,
-    "healed": 173986,
-    "died": 9611,
-    "sick_incr": 409,
-    "healed_incr": 902,
-    "died_incr": 21,
+    "sick": 194305,
+    "healed": 174690,
+    "died": 9631,
+    "sick_incr": 378,
+    "healed_incr": 704,
+    "died_incr": 20,
     "date": "2022-01-01",
     "isolation": {
       "start_date": "30.12.2021 15:00:00",
