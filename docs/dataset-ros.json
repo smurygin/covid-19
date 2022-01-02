@@ -10151,12 +10151,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 194305,
-    "healed": 174690,
-    "died": 9631,
-    "sick_incr": 378,
-    "healed_incr": 704,
-    "died_incr": 20,
+    "sick": 194642,
+    "healed": 175335,
+    "died": 9649,
+    "sick_incr": 337,
+    "healed_incr": 645,
+    "died_incr": 18,
     "date": "2022-01-02",
     "isolation": {
       "start_date": "30.12.2021 15:00:00",
