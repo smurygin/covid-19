@@ -1982,5 +1982,13 @@
     "first_dose_incr": 16417,
     "second_dose_incr": 29922,
     "immune_percent": "58.8"
+  },
+  {
+    "date": "Invalid Date",
+    "first_dose": 2431656,
+    "second_dose": 2312579,
+    "first_dose_incr": 16417,
+    "second_dose_incr": 29922,
+    "immune_percent": "58.8"
   }
 ]
