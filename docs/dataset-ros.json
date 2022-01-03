@@ -10182,12 +10182,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 194642,
-    "healed": 175335,
-    "died": 9649,
-    "sick_incr": 337,
-    "healed_incr": 645,
-    "died_incr": 18,
+    "sick": 194932,
+    "healed": 175740,
+    "died": 9665,
+    "sick_incr": 290,
+    "healed_incr": 405,
+    "died_incr": 16,
     "date": "2022-01-03",
     "isolation": {
       "start_date": "30.12.2021 15:00:00",
