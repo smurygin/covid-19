@@ -10244,12 +10244,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 195209,
-    "healed": 176264,
-    "died": 9694,
-    "sick_incr": 277,
-    "healed_incr": 524,
-    "died_incr": 29,
+    "sick": 195496,
+    "healed": 176730,
+    "died": 9714,
+    "sick_incr": 287,
+    "healed_incr": 466,
+    "died_incr": 20,
     "date": "2022-01-05",
     "isolation": {
       "start_date": "30.12.2021 15:00:00",
