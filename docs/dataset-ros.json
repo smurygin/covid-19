@@ -10368,11 +10368,11 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 196412,
-    "healed": 178018,
-    "died": 9766,
-    "sick_incr": 318,
-    "healed_incr": 608,
+    "sick": 196761,
+    "healed": 178670,
+    "died": 9783,
+    "sick_incr": 349,
+    "healed_incr": 652,
     "died_incr": 17,
     "date": "2022-01-09",
     "isolation": {
