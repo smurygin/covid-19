@@ -10399,12 +10399,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 196761,
-    "healed": 178670,
-    "died": 9783,
-    "sick_incr": 349,
-    "healed_incr": 652,
-    "died_incr": 17,
+    "sick": 197116,
+    "healed": 179272,
+    "died": 9799,
+    "sick_incr": 355,
+    "healed_incr": 602,
+    "died_incr": 16,
     "date": "2022-01-10",
     "isolation": {
       "start_date": "06.01.2022 15:00:00",
