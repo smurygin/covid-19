@@ -10461,12 +10461,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 197474,
-    "healed": 179608,
-    "died": 9817,
-    "sick_incr": 358,
-    "healed_incr": 336,
-    "died_incr": 18,
+    "sick": 197841,
+    "healed": 179838,
+    "died": 9832,
+    "sick_incr": 367,
+    "healed_incr": 230,
+    "died_incr": 15,
     "date": "2022-01-12",
     "isolation": {
       "start_date": "06.01.2022 15:00:00",
