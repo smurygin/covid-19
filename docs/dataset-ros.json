@@ -10523,12 +10523,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 198232,
-    "healed": 180098,
-    "died": 9853,
-    "sick_incr": 391,
-    "healed_incr": 260,
-    "died_incr": 21,
+    "sick": 198654,
+    "healed": 180373,
+    "died": 9864,
+    "sick_incr": 422,
+    "healed_incr": 275,
+    "died_incr": 11,
     "date": "2022-01-14",
     "isolation": {
       "start_date": "12.01.2022 15:00:00",
