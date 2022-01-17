@@ -10616,12 +10616,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 199597,
-    "healed": 180856,
-    "died": 9880,
-    "sick_incr": 494,
-    "healed_incr": 201,
-    "died_incr": 4,
+    "sick": 200136,
+    "healed": 181073,
+    "died": 9896,
+    "sick_incr": 539,
+    "healed_incr": 217,
+    "died_incr": 16,
     "date": "2022-01-17",
     "isolation": {
       "start_date": "12.01.2022 15:00:00",
