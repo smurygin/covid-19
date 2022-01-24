@@ -10833,11 +10833,11 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 204305,
-    "healed": 182746,
-    "died": 9953,
-    "sick_incr": 919,
-    "healed_incr": 296,
+    "sick": 205232,
+    "healed": 182966,
+    "died": 9959,
+    "sick_incr": 927,
+    "healed_incr": 220,
     "died_incr": 6,
     "date": "2022-01-24",
     "isolation": {
