@@ -10864,12 +10864,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 205232,
-    "healed": 182966,
-    "died": 9959,
-    "sick_incr": 927,
-    "healed_incr": 220,
-    "died_incr": 6,
+    "sick": 206215,
+    "healed": 183151,
+    "died": 9969,
+    "sick_incr": 983,
+    "healed_incr": 185,
+    "died_incr": 10,
     "date": "2022-01-25",
     "isolation": {
       "start_date": "21.01.2022 16:00:00",
