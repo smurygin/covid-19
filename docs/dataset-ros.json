@@ -10926,12 +10926,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 207244,
-    "healed": 183410,
-    "died": 9981,
-    "sick_incr": 1029,
-    "healed_incr": 259,
-    "died_incr": 12,
+    "sick": 208366,
+    "healed": 183707,
+    "died": 9989,
+    "sick_incr": 1122,
+    "healed_incr": 297,
+    "died_incr": 8,
     "date": "2022-01-27",
     "isolation": {
       "start_date": "21.01.2022 16:00:00",
