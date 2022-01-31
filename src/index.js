@@ -24,11 +24,12 @@ const PATHS = {
 
 const DATASET_DATE_FORMAT = 'YYYY-MM-DD';
 const ORIGIN_DATE_FORMAT = 'DD.MM.YYYY';
+const ORIGIN_VAC_DATE_FORMAT = 'DD.MM.YYYY hh.mm.ss';
 
 const write = promisify(fs.writeFile);
 
 function processIsolation(isolation) {
-  const $ = cheerio.load(isolation.descr);
+  const $ = cheerio.load(isolation.descr || '');
 
   const restrictions = $('li:not(:has(a))')
     .toArray()
@@ -49,6 +50,8 @@ function mapCasesData(origin) {
     sick: origin.sick,
     healed: origin.healed,
     died: origin.died,
+    hospitalized: origin.hospitalized,
+    hospitalized_incr: origin.hospitalized_incr,
     sick_incr: origin.sick_incr,
     healed_incr: origin.healed_incr,
     died_incr: origin.died_incr,
@@ -65,7 +68,7 @@ function mapCasesData(origin) {
 
 function mapVacData(origin) {
   return {
-    date: dayjs(origin.covid_free.date).format(DATASET_DATE_FORMAT),
+    date: dayjs(origin.covid_free.date, ORIGIN_VAC_DATE_FORMAT).format(DATASET_DATE_FORMAT),
     first_dose: origin.first,
     second_dose: origin.second,
     first_dose_incr: origin.first_incr,
@@ -89,32 +92,42 @@ async function getCommonData() {
     const lastInCasesDataset = casesDataset[city.code][casesDataset[city.code].length - 1];
     const todayInDataset = dayjs(lastInCasesDataset.date, DATASET_DATE_FORMAT).isToday();
 
-    if (!todayInDataset) {
-      casesDataset[city.code].push(mapCasesData(city));
-    } else if (
-      city.sick !== lastInCasesDataset.sick ||
-      city.died !== lastInCasesDataset.died ||
-      city.healed !== lastInCasesDataset.healed ||
-      city.sick_incr !== lastInCasesDataset.sick_incr ||
-      city.healed_incr !== lastInCasesDataset.healed_incr ||
-      city.died_incr !== lastInCasesDataset.died_incr ||
-      city.isolation.start_date !== lastInCasesDataset.isolation.start_date
-    ) {
-      casesDataset[city.code][casesDataset[city.code].length - 1] = mapCasesData(city);
+    try {
+      if (!todayInDataset) {
+        casesDataset[city.code].push(mapCasesData(city));
+      } else if (
+        city.sick !== lastInCasesDataset.sick ||
+        city.died !== lastInCasesDataset.died ||
+        city.healed !== lastInCasesDataset.healed ||
+        city.hospitalized !== lastInCasesDataset.hospitalized ||
+        city.hospitalized_incr !== lastInCasesDataset.hospitalized_incr ||
+        city.sick_incr !== lastInCasesDataset.sick_incr ||
+        city.healed_incr !== lastInCasesDataset.healed_incr ||
+        city.died_incr !== lastInCasesDataset.died_incr ||
+        city.isolation.start_date !== lastInCasesDataset && lastInCasesDataset.isolation && lastInCasesDataset.isolation.start_date
+      ) {
+        casesDataset[city.code][casesDataset[city.code].length - 1] = mapCasesData(city);
+      }
+    } catch (e) {
+      console.log(`🔴 an error occurred while process the covid cases data - ${JSON.stringify(e)}`);
     }
 
     const lastInVacDataset = vacDataset[city.code][vacDataset[city.code].length - 1];
 
-    if (lastInVacDataset.date !== dayjs(city.covid_free.date, ORIGIN_DATE_FORMAT).format(DATASET_DATE_FORMAT)) {
-      vacDataset[city.code].push(mapVacData(city));
-    } else if (
-      lastInVacDataset.first_dose !== city.first ||
-      lastInVacDataset.second_dose !== city.second ||
-      lastInVacDataset.first_dose_incr !== city.first_incr ||
-      lastInVacDataset.second_dose_incr !== city.second_incr ||
-      lastInVacDataset.immune_percent !== city.immune_percent
-    ) {
-      vacDataset[city.code][vacDataset[city.code].length - 1] = mapVacData(city);
+    try {
+      if (lastInVacDataset.date !== dayjs(city.covid_free.date, ORIGIN_DATE_FORMAT).format(DATASET_DATE_FORMAT)) {
+        vacDataset[city.code].push(mapVacData(city));
+      } else if (
+        lastInVacDataset.first_dose !== city.first ||
+        lastInVacDataset.second_dose !== city.second ||
+        lastInVacDataset.first_dose_incr !== city.first_incr ||
+        lastInVacDataset.second_dose_incr !== city.second_incr ||
+        lastInVacDataset.immune_percent !== city.immune_percent
+      ) {
+        vacDataset[city.code][vacDataset[city.code].length - 1] = mapVacData(city);
+      }
+    } catch (e) {
+      console.log(`🔴 an error occurred while process the vaccination data - ${JSON.stringify(e)}`);
     }
   });
 
