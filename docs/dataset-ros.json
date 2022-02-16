@@ -11585,7 +11585,6 @@
     "healed": 209813,
     "died": 10192,
     "hospitalized": 312,
-    "hospitalized_incr": -136,
     "sick_incr": 4224,
     "healed_incr": 6118,
     "died_incr": 12,
