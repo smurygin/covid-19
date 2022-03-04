@@ -1494,5 +1494,13 @@
     "first_dose_incr": 26125,
     "second_dose_incr": 38484,
     "immune_percent": "53.5"
+  },
+  {
+    "date": "2022-03-04",
+    "first_dose": 2720115,
+    "second_dose": 2614094,
+    "first_dose_incr": 27954,
+    "second_dose_incr": 34915,
+    "immune_percent": "51.3"
   }
 ]
