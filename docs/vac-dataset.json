@@ -22411,6 +22411,14 @@
       "first_dose_incr": 3562,
       "second_dose_incr": 4153,
       "immune_percent": "62.1"
+    },
+    {
+      "date": "2022-04-01",
+      "first_dose": 1205993,
+      "second_dose": 1166052,
+      "first_dose_incr": 3562,
+      "second_dose_incr": 4153,
+      "immune_percent": "62.1"
     }
   ],
   "RU-ARK": [
@@ -56058,6 +56066,14 @@
     },
     {
       "date": "2022-03-25",
+      "first_dose": 1135025,
+      "second_dose": 1077352,
+      "first_dose_incr": 4719,
+      "second_dose_incr": 3847,
+      "immune_percent": "54.3"
+    },
+    {
+      "date": "2022-04-01",
       "first_dose": 1135025,
       "second_dose": 1077352,
       "first_dose_incr": 4719,
