@@ -13624,12 +13624,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 372571,
-    "healed": 359943,
-    "died": 10869,
-    "hospitalized": 56,
-    "sick_incr": 160,
-    "healed_incr": 199,
+    "sick": 372742,
+    "healed": 360155,
+    "died": 10873,
+    "hospitalized": 53,
+    "sick_incr": 171,
+    "healed_incr": 212,
     "died_incr": 4,
     "date": "2022-04-29",
     "isolation": {

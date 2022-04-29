@@ -96481,6 +96481,14 @@
       "first_dose_incr": 743,
       "second_dose_incr": 396,
       "immune_percent": "46.4"
+    },
+    {
+      "date": "2022-04-29",
+      "first_dose": 305128,
+      "second_dose": 286656,
+      "first_dose_incr": 743,
+      "second_dose_incr": 396,
+      "immune_percent": "46.4"
     }
   ],
   "RU-SEV": [
