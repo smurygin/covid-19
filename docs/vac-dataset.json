@@ -116497,6 +116497,14 @@
       "first_dose_incr": 2125,
       "second_dose_incr": 1252,
       "immune_percent": "26.3"
+    },
+    {
+      "date": "2022-05-13",
+      "first_dose": 215576,
+      "second_dose": 204813,
+      "first_dose_incr": 2125,
+      "second_dose_incr": 1252,
+      "immune_percent": "26.3"
     }
   ],
   "RU-SE": [
