@@ -14320,12 +14320,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 376112,
-    "healed": 364011,
-    "died": 10926,
-    "hospitalized": 26,
-    "sick_incr": 165,
-    "healed_incr": 131,
+    "sick": 376265,
+    "healed": 364172,
+    "died": 10928,
+    "hospitalized": 38,
+    "sick_incr": 153,
+    "healed_incr": 161,
     "died_incr": 2,
     "date": "2022-05-28",
     "isolation": {
