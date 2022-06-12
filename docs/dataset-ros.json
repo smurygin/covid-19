@@ -14680,12 +14680,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 377675,
-    "healed": 365844,
-    "died": 10946,
-    "hospitalized": 10,
-    "sick_incr": 124,
-    "healed_incr": 185,
+    "sick": 377759,
+    "healed": 365925,
+    "died": 10947,
+    "hospitalized": 7,
+    "sick_incr": 84,
+    "healed_incr": 81,
     "died_incr": 1,
     "date": "2022-06-12",
     "isolation": {
