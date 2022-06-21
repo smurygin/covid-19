@@ -14896,13 +14896,13 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 378339,
-    "healed": 366684,
+    "sick": 378360,
+    "healed": 366728,
     "died": 10953,
     "hospitalized": 10,
-    "sick_incr": 29,
-    "healed_incr": 17,
-    "died_incr": 1,
+    "sick_incr": 21,
+    "healed_incr": 44,
+    "died_incr": 0,
     "date": "2022-06-21",
     "isolation": {
       "start_date": "15.04.2022 20:00:00",
