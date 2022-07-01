@@ -53439,6 +53439,14 @@
       "first_dose_incr": 1032,
       "second_dose_incr": 1345,
       "immune_percent": "29"
+    },
+    {
+      "date": "2022-07-01",
+      "first_dose": 758668,
+      "second_dose": 706688,
+      "first_dose_incr": 1032,
+      "second_dose_incr": 1345,
+      "immune_percent": "29"
     }
   ],
   "RU-PRI": [
