@@ -15352,12 +15352,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 379792,
-    "healed": 368055,
+    "sick": 379883,
+    "healed": 368152,
     "died": 10961,
-    "hospitalized": 18,
-    "sick_incr": 115,
-    "healed_incr": 103,
+    "hospitalized": 10,
+    "sick_incr": 91,
+    "healed_incr": 97,
     "died_incr": 0,
     "date": "2022-07-10",
     "isolation": {
