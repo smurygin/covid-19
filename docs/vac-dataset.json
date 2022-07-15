@@ -8247,6 +8247,14 @@
       "first_dose_incr": 5128,
       "second_dose_incr": 4548,
       "immune_percent": "17.8"
+    },
+    {
+      "date": "2022-07-15",
+      "first_dose": 2931974,
+      "second_dose": 2791981,
+      "first_dose_incr": 5128,
+      "second_dose_incr": 4548,
+      "immune_percent": "17.8"
     }
   ],
   "RU-VOR": [
