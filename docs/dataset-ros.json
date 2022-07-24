@@ -15669,7 +15669,7 @@
     "sick": 381330,
     "healed": 369224,
     "died": 10966,
-    "hospitalized": 5,
+    "hospitalized": 9,
     "sick_incr": 149,
     "healed_incr": 97,
     "died_incr": 0,
