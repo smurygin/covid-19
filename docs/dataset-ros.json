@@ -15731,13 +15731,13 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 381905,
-    "healed": 369538,
+    "sick": 382152,
+    "healed": 369623,
     "died": 10967,
-    "hospitalized": 26,
-    "sick_incr": 252,
-    "healed_incr": 149,
-    "died_incr": 1,
+    "hospitalized": 32,
+    "sick_incr": 247,
+    "healed_incr": 85,
+    "died_incr": 0,
     "date": "2022-07-29",
     "isolation": { "start_date": "22.07.2022 14:00:00", "restrictions": [] }
   }
