@@ -94943,6 +94943,14 @@
       "first_dose_incr": 2592,
       "second_dose_incr": 1286,
       "immune_percent": "5.5"
+    },
+    {
+      "date": "2022-07-29",
+      "first_dose": 636744,
+      "second_dose": 606661,
+      "first_dose_incr": 2592,
+      "second_dose_incr": 1286,
+      "immune_percent": "5.5"
     }
   ],
   "RU-NGR": [
