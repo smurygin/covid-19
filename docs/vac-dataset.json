@@ -1687,6 +1687,14 @@
       "first_dose_incr": 23339,
       "second_dose_incr": 3685,
       "immune_percent": "3.4"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 7649169,
+      "second_dose": 7167134,
+      "first_dose_incr": 27612,
+      "second_dose_incr": 5015,
+      "immune_percent": "1.9"
     }
   ],
   "RU-SPE": [
@@ -3361,6 +3369,14 @@
       "first_dose_incr": 19258,
       "second_dose_incr": 3976,
       "immune_percent": "12.7"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 3785751,
+      "second_dose": 3560591,
+      "first_dose_incr": 23071,
+      "second_dose_incr": 5003,
+      "immune_percent": "10.6"
     }
   ],
   "RU-MOS": [
@@ -5051,6 +5067,14 @@
       "first_dose_incr": 34318,
       "second_dose_incr": 12977,
       "immune_percent": "7.7"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 5627188,
+      "second_dose": 5362352,
+      "first_dose_incr": 38385,
+      "second_dose_incr": 15385,
+      "immune_percent": "6.3"
     }
   ],
   "RU-NIZ": [
@@ -6741,6 +6765,14 @@
       "first_dose_incr": 5413,
       "second_dose_incr": 2051,
       "immune_percent": "5.9"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 2026400,
+      "second_dose": 1925804,
+      "first_dose_incr": 6903,
+      "second_dose_incr": 2293,
+      "immune_percent": "5"
     }
   ],
   "RU-SVE": [
@@ -8407,6 +8439,14 @@
       "first_dose_incr": 10185,
       "second_dose_incr": 4655,
       "immune_percent": "9.5"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 2975162,
+      "second_dose": 2815638,
+      "first_dose_incr": 12108,
+      "second_dose_incr": 5448,
+      "immune_percent": "8.5"
     }
   ],
   "RU-VOR": [
@@ -10089,6 +10129,14 @@
       "first_dose_incr": 5174,
       "second_dose_incr": 2452,
       "immune_percent": "7.6"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 1536137,
+      "second_dose": 1469886,
+      "first_dose_incr": 6860,
+      "second_dose_incr": 2680,
+      "immune_percent": "6.6"
     }
   ],
   "RU-ROS": [
@@ -11771,6 +11819,14 @@
       "first_dose_incr": 12042,
       "second_dose_incr": 6310,
       "immune_percent": "15.8"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 2961596,
+      "second_dose": 2848878,
+      "first_dose_incr": 15846,
+      "second_dose_incr": 6804,
+      "immune_percent": "14.6"
     }
   ],
   "RU-SAM": [
@@ -12925,6 +12981,14 @@
       "first_dose_incr": 8126,
       "second_dose_incr": 3810,
       "immune_percent": "10.4"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 2312060,
+      "second_dose": 2202237,
+      "first_dose_incr": 10699,
+      "second_dose_incr": 4377,
+      "immune_percent": "9.4"
     }
   ],
   "RU-KYA": [
@@ -14615,6 +14679,14 @@
       "first_dose_incr": 7772,
       "second_dose_incr": 2277,
       "immune_percent": "10.4"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 1810414,
+      "second_dose": 1701425,
+      "first_dose_incr": 10409,
+      "second_dose_incr": 2771,
+      "immune_percent": "8.9"
     }
   ],
   "RU-PER": [
@@ -16305,6 +16377,14 @@
       "first_dose_incr": 3126,
       "second_dose_incr": 996,
       "immune_percent": "7.2"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 1477133,
+      "second_dose": 1397527,
+      "first_dose_incr": 3978,
+      "second_dose_incr": 1072,
+      "immune_percent": "6.1"
     }
   ],
   "RU-IRK": [
@@ -17987,6 +18067,14 @@
       "first_dose_incr": 6299,
       "second_dose_incr": 1682,
       "immune_percent": "6.1"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 1457866,
+      "second_dose": 1337771,
+      "first_dose_incr": 8342,
+      "second_dose_incr": 1981,
+      "immune_percent": "5.1"
     }
   ],
   "RU-CHE": [
@@ -19669,6 +19757,14 @@
       "first_dose_incr": 5342,
       "second_dose_incr": 2596,
       "immune_percent": "8.2"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 2093221,
+      "second_dose": 2004385,
+      "first_dose_incr": 6952,
+      "second_dose_incr": 2720,
+      "immune_percent": "6.8"
     }
   ],
   "RU-SAR": [
@@ -21351,6 +21447,14 @@
       "first_dose_incr": 8023,
       "second_dose_incr": 3590,
       "immune_percent": "10.2"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 1533410,
+      "second_dose": 1442197,
+      "first_dose_incr": 8176,
+      "second_dose_incr": 3958,
+      "immune_percent": "9.4"
     }
   ],
   "RU-VGG": [
@@ -23033,6 +23137,14 @@
       "first_dose_incr": 5588,
       "second_dose_incr": 1977,
       "immune_percent": "6"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 1707785,
+      "second_dose": 1614609,
+      "first_dose_incr": 7258,
+      "second_dose_incr": 2454,
+      "immune_percent": "4.9"
     }
   ],
   "RU-CR": [
@@ -24715,6 +24827,14 @@
       "first_dose_incr": 3479,
       "second_dose_incr": 1463,
       "immune_percent": "6.4"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 1264857,
+      "second_dose": 1214575,
+      "first_dose_incr": 4674,
+      "second_dose_incr": 1825,
+      "immune_percent": "5.6"
     }
   ],
   "RU-ARK": [
@@ -26397,6 +26517,14 @@
       "first_dose_incr": 2353,
       "second_dose_incr": 932,
       "immune_percent": "11.5"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 679923,
+      "second_dose": 645872,
+      "first_dose_incr": 3304,
+      "second_dose_incr": 1049,
+      "immune_percent": "10.4"
     }
   ],
   "RU-OMS": [
@@ -28087,6 +28215,14 @@
       "first_dose_incr": 5126,
       "second_dose_incr": 2076,
       "immune_percent": "7.7"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 1224382,
+      "second_dose": 1159440,
+      "first_dose_incr": 6578,
+      "second_dose_incr": 2585,
+      "immune_percent": "6.3"
     }
   ],
   "RU-STA": [
@@ -29769,6 +29905,14 @@
       "first_dose_incr": 5863,
       "second_dose_incr": 2317,
       "immune_percent": "4.4"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 1434758,
+      "second_dose": 1375436,
+      "first_dose_incr": 6492,
+      "second_dose_incr": 3162,
+      "immune_percent": "3.6"
     }
   ],
   "RU-ULY": [
@@ -31451,6 +31595,14 @@
       "first_dose_incr": 3349,
       "second_dose_incr": 763,
       "immune_percent": "6.6"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 748134,
+      "second_dose": 693882,
+      "first_dose_incr": 4200,
+      "second_dose_incr": 1044,
+      "immune_percent": "5.4"
     }
   ],
   "RU-KHA": [
@@ -33125,6 +33277,14 @@
       "first_dose_incr": 2049,
       "second_dose_incr": 964,
       "immune_percent": "14.4"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 800479,
+      "second_dose": 755034,
+      "first_dose_incr": 3088,
+      "second_dose_incr": 1142,
+      "immune_percent": "13.2"
     }
   ],
   "RU-BA": [
@@ -34807,6 +34967,14 @@
       "first_dose_incr": 29057,
       "second_dose_incr": 13102,
       "immune_percent": "14.4"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 2960816,
+      "second_dose": 2759215,
+      "first_dose_incr": 32360,
+      "second_dose_incr": 20725,
+      "immune_percent": "13.6"
     }
   ],
   "RU-ALT": [
@@ -36497,6 +36665,14 @@
       "first_dose_incr": 5142,
       "second_dose_incr": 1276,
       "immune_percent": "7.9"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 1341032,
+      "second_dose": 1268492,
+      "first_dose_incr": 7717,
+      "second_dose_incr": 1513,
+      "immune_percent": "6.5"
     }
   ],
   "RU-ORE": [
@@ -38187,6 +38363,14 @@
       "first_dose_incr": 2939,
       "second_dose_incr": 1039,
       "immune_percent": "9.1"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 1257676,
+      "second_dose": 1187206,
+      "first_dose_incr": 3779,
+      "second_dose_incr": 884,
+      "immune_percent": "7.5"
     }
   ],
   "RU-KDA": [
@@ -39869,6 +40053,14 @@
       "first_dose_incr": 10408,
       "second_dose_incr": 6378,
       "immune_percent": "9.3"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 3884955,
+      "second_dose": 3697520,
+      "first_dose_incr": 15130,
+      "second_dose_incr": 8045,
+      "immune_percent": "8.6"
     }
   ],
   "RU-PNZ": [
@@ -41559,6 +41751,14 @@
       "first_dose_incr": 11494,
       "second_dose_incr": 10551,
       "immune_percent": "22.8"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 1175798,
+      "second_dose": 1109011,
+      "first_dose_incr": 12062,
+      "second_dose_incr": 10892,
+      "immune_percent": "22.2"
     }
   ],
   "RU-KHM": [
@@ -43241,6 +43441,14 @@
       "first_dose_incr": 4051,
       "second_dose_incr": 295,
       "immune_percent": "7.9"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 1165946,
+      "second_dose": 1055880,
+      "first_dose_incr": 5206,
+      "second_dose_incr": 290,
+      "immune_percent": "6"
     }
   ],
   "RU-KO": [
@@ -44915,6 +45123,14 @@
       "first_dose_incr": 1210,
       "second_dose_incr": 448,
       "immune_percent": "9.1"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 475901,
+      "second_dose": 446410,
+      "first_dose_incr": 1864,
+      "second_dose_incr": 476,
+      "immune_percent": "7.5"
     }
   ],
   "RU-LEN": [
@@ -46605,6 +46821,14 @@
       "first_dose_incr": 5943,
       "second_dose_incr": 1442,
       "immune_percent": "3.1"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 1100065,
+      "second_dose": 1036401,
+      "first_dose_incr": 7173,
+      "second_dose_incr": 1945,
+      "immune_percent": "2.3"
     }
   ],
   "RU-VLG": [
@@ -48287,6 +48511,14 @@
       "first_dose_incr": 1426,
       "second_dose_incr": 337,
       "immune_percent": "8.2"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 661432,
+      "second_dose": 623404,
+      "first_dose_incr": 1922,
+      "second_dose_incr": 497,
+      "immune_percent": "6.9"
     }
   ],
   "RU-BRY": [
@@ -49977,6 +50209,14 @@
       "first_dose_incr": 1654,
       "second_dose_incr": 939,
       "immune_percent": "5.7"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 689527,
+      "second_dose": 664892,
+      "first_dose_incr": 2721,
+      "second_dose_incr": 1156,
+      "immune_percent": "4.7"
     }
   ],
   "RU-MUR": [
@@ -51651,6 +51891,14 @@
       "first_dose_incr": 1693,
       "second_dose_incr": 2038,
       "immune_percent": "20.6"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 596345,
+      "second_dose": 570838,
+      "first_dose_incr": 2305,
+      "second_dose_incr": 1239,
+      "immune_percent": "18.5"
     }
   ],
   "RU-TVE": [
@@ -53325,6 +53573,14 @@
       "first_dose_incr": 2169,
       "second_dose_incr": 744,
       "immune_percent": "4.8"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 703187,
+      "second_dose": 672599,
+      "first_dose_incr": 2808,
+      "second_dose_incr": 1032,
+      "immune_percent": "4.2"
     }
   ],
   "RU-ZAB": [
@@ -55015,6 +55271,14 @@
       "first_dose_incr": 710,
       "second_dose_incr": 523,
       "immune_percent": "13.6"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 764879,
+      "second_dose": 712210,
+      "first_dose_incr": 1466,
+      "second_dose_incr": 429,
+      "immune_percent": "11.8"
     }
   ],
   "RU-PRI": [
@@ -56705,6 +56969,14 @@
       "first_dose_incr": 3968,
       "second_dose_incr": 1011,
       "immune_percent": "12.4"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 1197324,
+      "second_dose": 1139608,
+      "first_dose_incr": 6996,
+      "second_dose_incr": 1469,
+      "immune_percent": "11.5"
     }
   ],
   "RU-KR": [
@@ -58379,6 +58651,14 @@
       "first_dose_incr": 922,
       "second_dose_incr": 330,
       "immune_percent": "4.3"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 402780,
+      "second_dose": 382572,
+      "first_dose_incr": 1359,
+      "second_dose_incr": 373,
+      "immune_percent": "2.6"
     }
   ],
   "RU-NVS": [
@@ -60069,6 +60349,14 @@
       "first_dose_incr": 5694,
       "second_dose_incr": 1861,
       "immune_percent": "11.8"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 1767131,
+      "second_dose": 1660632,
+      "first_dose_incr": 7593,
+      "second_dose_incr": 2444,
+      "immune_percent": "10.8"
     }
   ],
   "RU-TYU": [
@@ -61751,6 +62039,14 @@
       "first_dose_incr": 3825,
       "second_dose_incr": 671,
       "immune_percent": "4.3"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 1199851,
+      "second_dose": 1103809,
+      "first_dose_incr": 5676,
+      "second_dose_incr": 640,
+      "immune_percent": "3"
     }
   ],
   "RU-YAR": [
@@ -63425,6 +63721,14 @@
       "first_dose_incr": 2787,
       "second_dose_incr": 771,
       "immune_percent": "6.3"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 684459,
+      "second_dose": 647241,
+      "first_dose_incr": 3797,
+      "second_dose_incr": 1004,
+      "immune_percent": "5.4"
     }
   ],
   "RU-KRS": [
@@ -65115,6 +65419,14 @@
       "first_dose_incr": 2635,
       "second_dose_incr": 789,
       "immune_percent": "6.2"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 748893,
+      "second_dose": 715418,
+      "first_dose_incr": 3611,
+      "second_dose_incr": 1046,
+      "immune_percent": "5.3"
     }
   ],
   "RU-SMO": [
@@ -66789,6 +67101,14 @@
       "first_dose_incr": 2099,
       "second_dose_incr": 807,
       "immune_percent": "6.8"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 516195,
+      "second_dose": 492345,
+      "first_dose_incr": 2648,
+      "second_dose_incr": 921,
+      "immune_percent": "6"
     }
   ],
   "RU-KGD": [
@@ -68479,6 +68799,14 @@
       "first_dose_incr": 1635,
       "second_dose_incr": 945,
       "immune_percent": "10.9"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 698221,
+      "second_dose": 672857,
+      "first_dose_incr": 2289,
+      "second_dose_incr": 1021,
+      "immune_percent": "10.2"
     }
   ],
   "RU-AST": [
@@ -70169,6 +70497,14 @@
       "first_dose_incr": 3574,
       "second_dose_incr": 1044,
       "immune_percent": "6.1"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 624566,
+      "second_dose": 585094,
+      "first_dose_incr": 3765,
+      "second_dose_incr": 1490,
+      "immune_percent": "5.2"
     }
   ],
   "RU-UD": [
@@ -71851,6 +72187,14 @@
       "first_dose_incr": 2923,
       "second_dose_incr": 991,
       "immune_percent": "6.5"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 896685,
+      "second_dose": 835291,
+      "first_dose_incr": 4692,
+      "second_dose_incr": 1285,
+      "immune_percent": "5"
     }
   ],
   "RU-LIP": [
@@ -73541,6 +73885,14 @@
       "first_dose_incr": 3522,
       "second_dose_incr": 2088,
       "immune_percent": "10.3"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 831028,
+      "second_dose": 803236,
+      "first_dose_incr": 4712,
+      "second_dose_incr": 2107,
+      "immune_percent": "9.4"
     }
   ],
   "RU-KEM": [
@@ -74695,6 +75047,14 @@
       "first_dose_incr": 4504,
       "second_dose_incr": 1915,
       "immune_percent": "6.5"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 1540546,
+      "second_dose": 1445293,
+      "first_dose_incr": 6349,
+      "second_dose_incr": 1970,
+      "immune_percent": "5.3"
     }
   ],
   "RU-BEL": [
@@ -76377,6 +76737,14 @@
       "first_dose_incr": 2665,
       "second_dose_incr": 1388,
       "immune_percent": "3.8"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 1300279,
+      "second_dose": 1260624,
+      "first_dose_incr": 5407,
+      "second_dose_incr": 1969,
+      "immune_percent": "2.8"
     }
   ],
   "RU-VLA": [
@@ -78067,6 +78435,14 @@
       "first_dose_incr": 2422,
       "second_dose_incr": 815,
       "immune_percent": "3.3"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 665787,
+      "second_dose": 634618,
+      "first_dose_incr": 3604,
+      "second_dose_incr": 1312,
+      "immune_percent": "2.7"
     }
   ],
   "RU-KIR": [
@@ -79757,6 +80133,14 @@
       "first_dose_incr": 1311,
       "second_dose_incr": 453,
       "immune_percent": "2.6"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 821325,
+      "second_dose": 785848,
+      "first_dose_incr": 1755,
+      "second_dose_incr": 580,
+      "immune_percent": "1.4"
     }
   ],
   "RU-SA": [
@@ -81439,6 +81823,14 @@
       "first_dose_incr": 1689,
       "second_dose_incr": 171,
       "immune_percent": "5.6"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 626460,
+      "second_dose": 576942,
+      "first_dose_incr": 2395,
+      "second_dose_incr": 285,
+      "immune_percent": "1"
     }
   ],
   "RU-BU": [
@@ -83129,6 +83521,14 @@
       "first_dose_incr": 2482,
       "second_dose_incr": 594,
       "immune_percent": "8.1"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 704669,
+      "second_dose": 647572,
+      "first_dose_incr": 4442,
+      "second_dose_incr": 677,
+      "immune_percent": "5.6"
     }
   ],
   "RU-TUL": [
@@ -84811,6 +85211,14 @@
       "first_dose_incr": 4773,
       "second_dose_incr": 1138,
       "immune_percent": "5.7"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 999876,
+      "second_dose": 945860,
+      "first_dose_incr": 6556,
+      "second_dose_incr": 1744,
+      "immune_percent": "4.8"
     }
   ],
   "RU-PSK": [
@@ -86501,6 +86909,14 @@
       "first_dose_incr": 1135,
       "second_dose_incr": 342,
       "immune_percent": "7.7"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 358627,
+      "second_dose": 333272,
+      "first_dose_incr": 1769,
+      "second_dose_incr": 317,
+      "immune_percent": "6.8"
     }
   ],
   "RU-IVA": [
@@ -88191,6 +88607,14 @@
       "first_dose_incr": 1332,
       "second_dose_incr": 582,
       "immune_percent": "3.6"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 524279,
+      "second_dose": 499463,
+      "first_dose_incr": 1705,
+      "second_dose_incr": 592,
+      "immune_percent": "2.9"
     }
   ],
   "RU-ORL": [
@@ -89873,6 +90297,14 @@
       "first_dose_incr": 1969,
       "second_dose_incr": 618,
       "immune_percent": "5.1"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 488472,
+      "second_dose": 459769,
+      "first_dose_incr": 2205,
+      "second_dose_incr": 653,
+      "immune_percent": "4.3"
     }
   ],
   "RU-DA": [
@@ -91571,6 +92003,14 @@
       "first_dose_incr": 7260,
       "second_dose_incr": 7876,
       "immune_percent": "26.4"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 1568848,
+      "second_dose": 1409828,
+      "first_dose_incr": 7351,
+      "second_dose_incr": 6816,
+      "immune_percent": "25"
     }
   ],
   "RU-YAN": [
@@ -93253,6 +93693,14 @@
       "first_dose_incr": 1220,
       "second_dose_incr": 767,
       "immune_percent": "13.6"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 345966,
+      "second_dose": 334192,
+      "first_dose_incr": 1541,
+      "second_dose_incr": 657,
+      "immune_percent": "11.8"
     }
   ],
   "RU-KLU": [
@@ -94951,6 +95399,14 @@
       "first_dose_incr": 2592,
       "second_dose_incr": 1286,
       "immune_percent": "5.5"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 639375,
+      "second_dose": 607478,
+      "first_dose_incr": 2631,
+      "second_dose_incr": 817,
+      "immune_percent": "4.8"
     }
   ],
   "RU-NGR": [
@@ -97065,6 +97521,14 @@
       "first_dose_incr": 982,
       "second_dose_incr": 358,
       "immune_percent": "6.2"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 336693,
+      "second_dose": 322064,
+      "first_dose_incr": 1366,
+      "second_dose_incr": 419,
+      "immune_percent": "5.1"
     }
   ],
   "RU-TOM": [
@@ -98747,6 +99211,14 @@
       "first_dose_incr": 1428,
       "second_dose_incr": 410,
       "immune_percent": "6.4"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 640861,
+      "second_dose": 594734,
+      "first_dose_incr": 2201,
+      "second_dose_incr": 356,
+      "immune_percent": "5.3"
     }
   ],
   "RU-RYA": [
@@ -100429,6 +100901,14 @@
       "first_dose_incr": 1837,
       "second_dose_incr": 503,
       "immune_percent": "6.1"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 649748,
+      "second_dose": 617041,
+      "first_dose_incr": 2707,
+      "second_dose_incr": 648,
+      "immune_percent": "5.1"
     }
   ],
   "RU-TAM": [
@@ -102103,6 +102583,14 @@
       "first_dose_incr": 6673,
       "second_dose_incr": 1656,
       "immune_percent": "12.5"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 742976,
+      "second_dose": 689202,
+      "first_dose_incr": 5967,
+      "second_dose_incr": 2593,
+      "immune_percent": "11.6"
     }
   ],
   "RU-KK": [
@@ -103785,6 +104273,14 @@
       "first_dose_incr": 913,
       "second_dose_incr": 229,
       "immune_percent": "7.4"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 316057,
+      "second_dose": 291659,
+      "first_dose_incr": 1315,
+      "second_dose_incr": 243,
+      "immune_percent": "5"
     }
   ],
   "RU-SEV": [
@@ -105467,6 +105963,14 @@
       "first_dose_incr": 954,
       "second_dose_incr": 358,
       "immune_percent": "16.2"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 385333,
+      "second_dose": 370339,
+      "first_dose_incr": 1109,
+      "second_dose_incr": 481,
+      "immune_percent": "15.4"
     }
   ],
   "RU-AMU": [
@@ -107149,6 +107653,14 @@
       "first_dose_incr": 950,
       "second_dose_incr": 371,
       "immune_percent": "11.8"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 551977,
+      "second_dose": 524831,
+      "first_dose_incr": 1614,
+      "second_dose_incr": 379,
+      "immune_percent": "10.4"
     }
   ],
   "RU-KGN": [
@@ -108839,6 +109351,14 @@
       "first_dose_incr": 1874,
       "second_dose_incr": 805,
       "immune_percent": "7.8"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 594842,
+      "second_dose": 562194,
+      "first_dose_incr": 3177,
+      "second_dose_incr": 1230,
+      "immune_percent": "6.3"
     }
   ],
   "RU-KOS": [
@@ -110529,6 +111049,14 @@
       "first_dose_incr": 1302,
       "second_dose_incr": 413,
       "immune_percent": "8.3"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 376659,
+      "second_dose": 359399,
+      "first_dose_incr": 1494,
+      "second_dose_incr": 413,
+      "immune_percent": "7.3"
     }
   ],
   "RU-CU": [
@@ -112211,6 +112739,14 @@
       "first_dose_incr": 1739,
       "second_dose_incr": 793,
       "immune_percent": "9.3"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 731210,
+      "second_dose": 693251,
+      "first_dose_incr": 2917,
+      "second_dose_incr": 1123,
+      "immune_percent": "7.9"
     }
   ],
   "RU-KB": [
@@ -113901,6 +114437,14 @@
       "first_dose_incr": 1098,
       "second_dose_incr": 391,
       "immune_percent": "3.5"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 325066,
+      "second_dose": 308448,
+      "first_dose_incr": 1408,
+      "second_dose_incr": 454,
+      "immune_percent": "2.7"
     }
   ],
   "RU-SAK": [
@@ -115583,6 +116127,14 @@
       "first_dose_incr": 1110,
       "second_dose_incr": 330,
       "immune_percent": "11.1"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 324631,
+      "second_dose": 311016,
+      "first_dose_incr": 1015,
+      "second_dose_incr": 637,
+      "immune_percent": "9.9"
     }
   ],
   "RU-TT": [
@@ -117265,6 +117817,14 @@
       "first_dose_incr": 9258,
       "second_dose_incr": 2953,
       "immune_percent": "4.8"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 2567782,
+      "second_dose": 2482548,
+      "first_dose_incr": 12637,
+      "second_dose_incr": 3545,
+      "immune_percent": "3.9"
     }
   ],
   "RU-MO": [
@@ -118947,6 +119507,14 @@
       "first_dose_incr": 4269,
       "second_dose_incr": 1131,
       "immune_percent": "13.9"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 694600,
+      "second_dose": 660925,
+      "first_dose_incr": 4276,
+      "second_dose_incr": 1492,
+      "immune_percent": "12.3"
     }
   ],
   "RU-KL": [
@@ -120629,6 +121197,14 @@
       "first_dose_incr": 1005,
       "second_dose_incr": 174,
       "immune_percent": "4.3"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 160942,
+      "second_dose": 152322,
+      "first_dose_incr": 1348,
+      "second_dose_incr": 133,
+      "immune_percent": "2.7"
     }
   ],
   "RU-TY": [
@@ -122311,6 +122887,14 @@
       "first_dose_incr": 2008,
       "second_dose_incr": 568,
       "immune_percent": "10.1"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 237934,
+      "second_dose": 211896,
+      "first_dose_incr": 3019,
+      "second_dose_incr": 603,
+      "immune_percent": "7.8"
     }
   ],
   "RU-KC": [
@@ -123473,6 +124057,14 @@
       "first_dose_incr": 662,
       "second_dose_incr": 420,
       "immune_percent": "10.8"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 227004,
+      "second_dose": 221361,
+      "first_dose_incr": 1185,
+      "second_dose_incr": 463,
+      "immune_percent": "10.2"
     }
   ],
   "RU-SE": [
@@ -125147,6 +125739,14 @@
       "first_dose_incr": 866,
       "second_dose_incr": 555,
       "immune_percent": "10.7"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 342626,
+      "second_dose": 335574,
+      "first_dose_incr": 996,
+      "second_dose_incr": 564,
+      "immune_percent": "10.2"
     }
   ],
   "RU-CE": [
@@ -126821,6 +127421,14 @@
       "first_dose_incr": 4648,
       "second_dose_incr": 2368,
       "immune_percent": "10.5"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 921034,
+      "second_dose": 775796,
+      "first_dose_incr": 4029,
+      "second_dose_incr": 1840,
+      "immune_percent": "10.1"
     }
   ],
   "RU-IN": [
@@ -128503,6 +129111,14 @@
       "first_dose_incr": 637,
       "second_dose_incr": 283,
       "immune_percent": "15.3"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 327332,
+      "second_dose": 318022,
+      "first_dose_incr": 1005,
+      "second_dose_incr": 407,
+      "immune_percent": "14.1"
     }
   ],
   "RU-ME": [
@@ -130193,6 +130809,14 @@
       "first_dose_incr": 1418,
       "second_dose_incr": 319,
       "immune_percent": "4"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 419462,
+      "second_dose": 399679,
+      "first_dose_incr": 1788,
+      "second_dose_incr": 588,
+      "immune_percent": "3.1"
     }
   ],
   "RU-GA": [
@@ -131883,6 +132507,14 @@
       "first_dose_incr": 293,
       "second_dose_incr": 116,
       "immune_percent": "7.6"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 132736,
+      "second_dose": 125995,
+      "first_dose_incr": 428,
+      "second_dose_incr": 110,
+      "immune_percent": "6.3"
     }
   ],
   "RU-AD": [
@@ -133573,6 +134205,14 @@
       "first_dose_incr": 551,
       "second_dose_incr": 216,
       "immune_percent": "5.3"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 223654,
+      "second_dose": 214980,
+      "first_dose_incr": 697,
+      "second_dose_incr": 271,
+      "immune_percent": "4.2"
     }
   ],
   "RU-KAM": [
@@ -135279,6 +135919,14 @@
       "first_dose_incr": 333,
       "second_dose_incr": 144,
       "immune_percent": "8.1"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 174196,
+      "second_dose": 160853,
+      "first_dose_incr": 602,
+      "second_dose_incr": 163,
+      "immune_percent": "7.4"
     }
   ],
   "RU-MAG": [
@@ -136969,6 +137617,14 @@
       "first_dose_incr": 326,
       "second_dose_incr": 77,
       "immune_percent": "8.2"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 97358,
+      "second_dose": 91850,
+      "first_dose_incr": 489,
+      "second_dose_incr": 118,
+      "immune_percent": "5.7"
     }
   ],
   "RU-YEV": [
@@ -138651,6 +139307,14 @@
       "first_dose_incr": 310,
       "second_dose_incr": 163,
       "immune_percent": "10.2"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 90258,
+      "second_dose": 84048,
+      "first_dose_incr": 372,
+      "second_dose_incr": 140,
+      "immune_percent": "8.8"
     }
   ],
   "RU-NEN": [
@@ -140341,6 +141005,14 @@
       "first_dose_incr": 34,
       "second_dose_incr": 33,
       "immune_percent": "7"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 26357,
+      "second_dose": 25560,
+      "first_dose_incr": 49,
+      "second_dose_incr": 50,
+      "immune_percent": "4"
     }
   ],
   "RU-CHU": [
@@ -142023,6 +142695,14 @@
       "first_dose_incr": 91,
       "second_dose_incr": 38,
       "immune_percent": "5.8"
+    },
+    {
+      "date": "2022-08-12",
+      "first_dose": 43595,
+      "second_dose": 40601,
+      "first_dose_incr": 69,
+      "second_dose_incr": -19,
+      "immune_percent": "4.7"
     }
   ]
 }
