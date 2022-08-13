@@ -15926,12 +15926,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 386592,
-    "healed": 372453,
+    "sick": 387351,
+    "healed": 373050,
     "died": 10970,
-    "hospitalized": 59,
-    "sick_incr": 504,
-    "healed_incr": 74,
+    "hospitalized": 51,
+    "sick_incr": 759,
+    "healed_incr": 597,
     "died_incr": 0,
     "date": "2022-08-13",
     "isolation": { "start_date": "22.07.2022 14:00:00", "restrictions": [] }
