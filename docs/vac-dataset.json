@@ -139315,6 +139315,14 @@
       "first_dose_incr": 372,
       "second_dose_incr": 140,
       "immune_percent": "8.8"
+    },
+    {
+      "date": "2022-08-05",
+      "first_dose": 90258,
+      "second_dose": 84048,
+      "first_dose_incr": 372,
+      "second_dose_incr": 140,
+      "immune_percent": "8.8"
     }
   ],
   "RU-NEN": [
