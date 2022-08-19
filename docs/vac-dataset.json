@@ -19765,6 +19765,14 @@
       "first_dose_incr": 6952,
       "second_dose_incr": 2720,
       "immune_percent": "6.8"
+    },
+    {
+      "date": "2022-08-19",
+      "first_dose": 2093221,
+      "second_dose": 2004385,
+      "first_dose_incr": 6952,
+      "second_dose_incr": 2720,
+      "immune_percent": "6.8"
     }
   ],
   "RU-SAR": [
