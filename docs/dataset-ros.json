@@ -16329,13 +16329,13 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 416037,
-    "healed": 396502,
-    "died": 10994,
-    "hospitalized": 34,
-    "sick_incr": 301,
-    "healed_incr": 318,
-    "died_incr": 0,
+    "sick": 416418,
+    "healed": 396971,
+    "died": 10996,
+    "hospitalized": 71,
+    "sick_incr": 381,
+    "healed_incr": 469,
+    "died_incr": 2,
     "date": "2022-09-13",
     "isolation": { "start_date": "22.07.2022 14:00:00", "restrictions": [] }
   }
