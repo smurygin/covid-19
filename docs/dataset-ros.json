@@ -16875,13 +16875,13 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 435665,
-    "healed": 423666,
-    "died": 11058,
-    "hospitalized": 1,
-    "sick_incr": 49,
-    "healed_incr": 77,
-    "died_incr": 2,
+    "sick": 435710,
+    "healed": 423808,
+    "died": 11061,
+    "hospitalized": 9,
+    "sick_incr": 45,
+    "healed_incr": 142,
+    "died_incr": 3,
     "date": "2022-10-25",
     "isolation": { "start_date": "22.07.2022 14:00:00", "restrictions": [] }
   }
