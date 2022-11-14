@@ -17135,12 +17135,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 436734,
-    "healed": 425266,
+    "sick": 436741,
+    "healed": 425290,
     "died": 11071,
     "hospitalized": 0,
-    "sick_incr": 50,
-    "healed_incr": 39,
+    "sick_incr": 7,
+    "healed_incr": 24,
     "died_incr": 0,
     "date": "2022-11-14",
     "isolation": { "start_date": "22.07.2022 14:00:00", "restrictions": [] }
