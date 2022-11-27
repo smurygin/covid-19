@@ -17304,12 +17304,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 437296,
-    "healed": 425810,
+    "sick": 437359,
+    "healed": 425853,
     "died": 11076,
-    "hospitalized": 10,
-    "sick_incr": 53,
-    "healed_incr": 20,
+    "hospitalized": 0,
+    "sick_incr": 63,
+    "healed_incr": 43,
     "died_incr": 0,
     "date": "2022-11-27",
     "isolation": { "start_date": "22.07.2022 14:00:00", "restrictions": [] }
