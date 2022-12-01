@@ -17356,12 +17356,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 437424,
-    "healed": 425939,
+    "sick": 437484,
+    "healed": 426001,
     "died": 11076,
-    "hospitalized": 6,
-    "sick_incr": 42,
-    "healed_incr": 45,
+    "hospitalized": 10,
+    "sick_incr": 60,
+    "healed_incr": 62,
     "died_incr": 0,
     "date": "2022-12-01",
     "isolation": { "start_date": "22.07.2022 14:00:00", "restrictions": [] }
