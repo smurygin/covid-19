@@ -17408,12 +17408,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 437665,
-    "healed": 426132,
+    "sick": 437676,
+    "healed": 426154,
     "died": 11076,
-    "hospitalized": 6,
-    "sick_incr": 53,
-    "healed_incr": 41,
+    "hospitalized": 1,
+    "sick_incr": 11,
+    "healed_incr": 22,
     "died_incr": 0,
     "date": "2022-12-05",
     "isolation": { "start_date": "22.07.2022 14:00:00", "restrictions": [] }
