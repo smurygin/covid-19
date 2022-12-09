@@ -17460,12 +17460,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 437805,
-    "healed": 426304,
+    "sick": 437858,
+    "healed": 426338,
     "died": 11076,
-    "hospitalized": 7,
-    "sick_incr": 83,
-    "healed_incr": 63,
+    "hospitalized": 10,
+    "sick_incr": 53,
+    "healed_incr": 34,
     "died_incr": 0,
     "date": "2022-12-09",
     "isolation": { "start_date": "22.07.2022 14:00:00", "restrictions": [] }
