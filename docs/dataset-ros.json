@@ -17941,12 +17941,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 438807,
-    "healed": 427517,
+    "sick": 438834,
+    "healed": 427550,
     "died": 11081,
-    "hospitalized": 8,
+    "hospitalized": 5,
     "sick_incr": 27,
-    "healed_incr": 19,
+    "healed_incr": 33,
     "died_incr": 0,
     "date": "2023-01-15",
     "isolation": { "start_date": "22.07.2022 14:00:00", "restrictions": [] }
