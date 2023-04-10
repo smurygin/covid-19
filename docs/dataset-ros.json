@@ -19046,12 +19046,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 454401,
-    "healed": 441662,
+    "sick": 454436,
+    "healed": 441728,
     "died": 11081,
-    "hospitalized": 6,
-    "sick_incr": 206,
-    "healed_incr": 282,
+    "hospitalized": 2,
+    "sick_incr": 35,
+    "healed_incr": 66,
     "died_incr": 0,
     "date": "2023-04-10",
     "isolation": { "start_date": "22.07.2022 14:00:00", "restrictions": [] }
