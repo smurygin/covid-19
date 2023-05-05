@@ -19371,12 +19371,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 456537,
-    "healed": 444885,
+    "sick": 456593,
+    "healed": 444977,
     "died": 11084,
-    "hospitalized": 1,
-    "sick_incr": 45,
-    "healed_incr": 97,
+    "hospitalized": 7,
+    "sick_incr": 56,
+    "healed_incr": 92,
     "died_incr": 0,
     "date": "2023-05-05",
     "isolation": { "start_date": "22.07.2022 14:00:00", "restrictions": [] }
