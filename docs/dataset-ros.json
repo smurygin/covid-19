@@ -19410,12 +19410,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 456691,
-    "healed": 445152,
+    "sick": 456698,
+    "healed": 445167,
     "died": 11084,
-    "hospitalized": 2,
-    "sick_incr": 45,
-    "healed_incr": 77,
+    "hospitalized": 3,
+    "sick_incr": 7,
+    "healed_incr": 15,
     "died_incr": 0,
     "date": "2023-05-08",
     "isolation": { "start_date": "22.07.2022 14:00:00", "restrictions": [] }
