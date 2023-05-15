@@ -19501,12 +19501,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 456796,
-    "healed": 445356,
+    "sick": 456803,
+    "healed": 445378,
     "died": 11084,
-    "hospitalized": 1,
-    "sick_incr": 31,
-    "healed_incr": 44,
+    "hospitalized": 0,
+    "sick_incr": 7,
+    "healed_incr": 22,
     "died_incr": 0,
     "date": "2023-05-15",
     "isolation": { "start_date": "22.07.2022 14:00:00", "restrictions": [] }
