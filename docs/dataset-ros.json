@@ -19904,8 +19904,8 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 457119,
-    "healed": 445709,
+    "sick": 457112,
+    "healed": 445687,
     "died": 11084,
     "hospitalized": 8,
     "sick_incr": 33,
