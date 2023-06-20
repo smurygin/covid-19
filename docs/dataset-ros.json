@@ -19969,12 +19969,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 457112,
-    "healed": 445687,
+    "sick": 457134,
+    "healed": 445720,
     "died": 11084,
-    "hospitalized": 8,
-    "sick_incr": 33,
-    "healed_incr": 27,
+    "hospitalized": 7,
+    "sick_incr": 22,
+    "healed_incr": 33,
     "died_incr": 0,
     "date": "2023-06-20",
     "isolation": { "start_date": "22.07.2022 14:00:00", "restrictions": [] }
