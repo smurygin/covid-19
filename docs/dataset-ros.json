@@ -21061,12 +21061,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 457380,
-    "healed": 446154,
+    "sick": 457452,
+    "healed": 446159,
     "died": 11084,
-    "hospitalized": 11,
-    "sick_incr": 41,
-    "healed_incr": 2,
+    "hospitalized": 15,
+    "sick_incr": 72,
+    "healed_incr": 5,
     "died_incr": 0,
     "date": "2023-09-12",
     "isolation": { "start_date": "22.07.2022 14:00:00", "restrictions": [] }
