@@ -21334,12 +21334,12 @@
   {
     "name": "Ростовская область",
     "code": "RU-ROS",
-    "sick": 457669,
-    "healed": 446290,
+    "sick": 457850,
+    "healed": 446466,
     "died": 11084,
-    "hospitalized": 5,
-    "sick_incr": 135,
-    "healed_incr": 104,
+    "hospitalized": 22,
+    "sick_incr": 181,
+    "healed_incr": 176,
     "died_incr": 0,
     "date": "2023-10-03",
     "isolation": { "start_date": "22.07.2022 14:00:00", "restrictions": [] }
