@@ -21343,5 +21343,18 @@
     "died_incr": 0,
     "date": "2023-10-03",
     "isolation": { "start_date": "22.07.2022 14:00:00", "restrictions": [] }
+  },
+  {
+    "name": "Ростовская область",
+    "code": "RU-ROS",
+    "sick": 457850,
+    "healed": 446466,
+    "died": 11084,
+    "hospitalized": 22,
+    "sick_incr": 181,
+    "healed_incr": 176,
+    "died_incr": 0,
+    "date": "2023-10-04",
+    "isolation": { "start_date": "22.07.2022 14:00:00", "restrictions": [] }
   }
 ]
